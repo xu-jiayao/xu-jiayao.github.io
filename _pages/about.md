@@ -22,7 +22,7 @@ I obtained my Ph.D. degree from Hosei University in March 2024 and my M.S. degre
 
 My **research interest** lies in Image Codec design based on Compressive Sensing, which encompasses Hardware Implementation and Deep Learning. 
 
-**Compressive Sensing** is a pioneering signal acquisition theory that exploits data sparsity to ensure downsampling, thereby reducing hardware requirements in analog-to-digital (ADC) processing. _In applications without ADC processing, this theory parallels sparse and low-rank representation._
+As one of the leading areas in representing low-dimensional structured data, **Compressive Sensing** stands out as a pioneering theory in signal sampling. It leverages data sparsity to enable downsampling, thereby minimizing hardware demands in analog-to-digital (ADC) processing. 
 
 Throughout my doctoral and master's studies, I have authored 10 papers, most of which have been published in leading conferences and journals in the fields of image processing and hardware implementation, including **TMM, CVM, MMM, ISCAS, DCC**, among others. 
 
