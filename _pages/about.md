@@ -31,8 +31,11 @@ I possess a strong ability for **self-directed learning** and have **independent
 I am currently actively seeking employment opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
 
 # 🔥 Skills
- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+• **Languages:** English - TOEIC(845/990), Japanese - JLPT N2(120/180), Mandarin - Native speaker
+• **Programming Languages:** Python, C/C++, MATLAB, Verilog , Objective-C
+• **Software Development:** Object-Oriented Programming (OOP), Design Patterns, Team Collaboration
+• **Platform:** Visual Studio Code, MATLAB, Modelsim, Vivado, XCode, Wireshark, Git version control
+• **OS (environment setting and system maintenance):** Windows, Centos 7, Ubuntu 18, macOS
 
 # 📝 Publications 
 
