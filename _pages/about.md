@@ -20,7 +20,7 @@ redirect_from:
 # Profile 
 I obtained my Ph.D. degree from Hosei University in March 2024 and my M.S. degree in September 2020. 
 
-My **research interest** lies in _Image Codec design_ based on _Compressive Sensing_, which encompasses _Hardware Implementation_ and _Deep Learning_. 
+My **research interest** lies in _**Image Codec design**_ based on _**Compressive Sensing**_, which encompasses _**Hardware Implementation**_ and _**Deep Learning**_. 
 
 As one of the leading areas in representing low-dimensional structured data, **Compressive Sensing** stands out as a pioneering theory in signal sampling. It leverages data sparsity to enable downsampling, thereby minimizing hardware demands in analog-to-digital (ADC) processing. 
 
