@@ -20,13 +20,13 @@ redirect_from:
 # Profile 
 I obtained my Ph.D. degree from Hosei University in March 2024 and my M.S. degree in September 2020. 
 
-My research interest lies in Image Codec design based on Compressive Sensing, which encompasses Hardware Implementation and Deep Learning. 
+My **research interest** lies in Image Codec design based on Compressive Sensing, which encompasses Hardware Implementation and Deep Learning. 
 
-Compressive Sensing is a pioneering signal acquisition theory that exploits data sparsity to ensure downsampling, thereby reducing hardware requirements in analog-to-digital (ADC) processing. In applications without ADC processing, this theory parallels sparse and low-rank representation.
+**Compressive Sensing** is a pioneering signal acquisition theory that exploits data sparsity to ensure downsampling, thereby reducing hardware requirements in analog-to-digital (ADC) processing. _In applications without ADC processing, this theory parallels sparse and low-rank representation._
 
-Throughout my doctoral and master's studies, I have authored 10 papers, most of which have been published in leading conferences and journals in the fields of image processing and hardware implementation, including TMM, CVM, MMM, ISCAS, DCC, among others. 
+Throughout my doctoral and master's studies, I have authored 10 papers, most of which have been published in leading conferences and journals in the fields of image processing and hardware implementation, including **TMM, CVM, MMM, ISCAS, DCC**, among others. 
 
-I possess a strong ability for self-directed learning and have independently acquired knowledge in areas relevant to my research topic during my graduate studies, as well as in iOS application development during my undergraduate studies.
+I possess a strong ability for **self-directed learning** and have **independently acquired knowledge** in areas relevant to my research topic during my graduate studies, as well as in iOS application development during my undergraduate studies.
 
 I am currently actively seeking employment opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
 
