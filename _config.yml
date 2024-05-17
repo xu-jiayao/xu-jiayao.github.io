@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiayao XU"
-description              : "Ph.D. in Engineering from Hosei University, Japan, with a focus on designing Image codecs based on Compressive Sensing, including Hardware Implementation and Deep Learning aspects."
+description              : "Focusing on designing Image codecs based on Compressive Sensing, including Hardware Implementation and Deep Learning aspects."
 repository               : "xu-jiayao/xu-jiayao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiayao XU"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Ph.D. in Engineering from Hosei University, Japan"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
