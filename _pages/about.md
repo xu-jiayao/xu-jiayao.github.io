@@ -43,19 +43,32 @@ I am currently actively seeking employment opportunities and aspire to join a gr
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+[Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
+
+**Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
+
+
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+
+
+
+
+
 
 # Projects 
 
@@ -65,12 +78,15 @@ I am currently actively seeking employment opportunities and aspire to join a gr
 - *2014.09 - 2018.06*, Bachelor, Southwest University of Science and Technology, Sichuan, China.
 
 # 💬 Invited Talks
-- *2024.04*, video enhancement technology Alipay intersnal talk.
-- *2022.06*, Video compression technology solution talk, CLIC2022 (CVPR).
+- *2023.10*, Image Compression using Compressive Sensing Seminar with Fudan University and Zhejiang University.
+- *2022.08*, Compressive Sensing Seminar with Osaka Univerisity.
+- *2022.06*, Real-time hardware design for Compressive Sensing reconstruction talk, MMM 2022.
+- *2022.05*, a hardware design reaches 81.92 GPixel/s for Compressive Sensing reconstruction talk, ISCAS 2022.
+- *2020.12*, Parallel reconstruction design for Compressive Sensing reconstruction talk, ICVIP 2020.
 
 # 🎖 Honors and Awards
-- *2020-2023* Research grants for Doctoral Courses in Hosei University Graduate School.
-- *2020-2021* Jasso scholarship.
+- *2020-2023* Research grants from Hosei University Graduate School.
+- *2020-2021* JASSO scholarship.
 - *2020.12* The best presentation of all excellent presentations at the 3rd International Conference on Image and Video Processing (ICIVP 2020). 
 
 
