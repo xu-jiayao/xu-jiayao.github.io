@@ -59,16 +59,19 @@ I am currently actively seeking employment opportunities and aspire to join a gr
 
 # Projects 
 
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.03*, Ph.D, Hosei University, Tokyo, Japan.
+- *2018.09 - 2020.09*, Master, Hosei University, Tokyo, Japan.
+- *2014.09 - 2018.06*, Bachelor, Southwest University of Science and Technology, Sichuan, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.04*, video enhancement technology Alipay intersnal talk.
+- *2022.06*, Video compression technology solution talk, CLIC2022 (CVPR).
+
+# 🎖 Honors and Awards
+- *2020-2023* Research grants for Doctoral Courses in Hosei University Graduate School.
+- *2020-2021* Jasso scholarship.
+- *2020.12* The best presentation of all excellent presentations at the 3rd International Conference on Image and Video Processing (ICIVP 2020). 
+
+
 
