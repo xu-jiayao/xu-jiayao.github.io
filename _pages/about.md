@@ -44,44 +44,34 @@ I am currently actively seeking employment opportunities and aspire to join a gr
 # 📝 Publications 
 
 - `TMM` [Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
-
 **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
 
 
 - `MMM` [Real-time FPGA Design for OMP Targeting 8K image Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
-
 **Jiayao Xu**, Chen Fu, Zhiqiang Zhang, Jinjia Zhou
 
 - `ISCAS` [An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements](https://ieeexplore.ieee.org/abstract/document/9937930)
-
 **Jiayao Xu**, Pham Do Kim Chi, Chen Fu, Jinjia Zhou
 
 - `ICVIP` [High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
-
 **Jiayao Xu**, Jirayu Peetakul, Muchen Li, Jinjia Zhou
 
 - `Peer Review` [Plug-and-Play Adaptive Block Compressive Sensing using Edge-Detection on the Compressed Domain]
-
 **Jiayao Xu**, Yibo Fan, Jinjia Zhou
 
 - `CVM, ACCEPT` [JVCSR+: Adaptively Learned Video Compressive Sensing Reconstruction with Joint In-loop Reference Enhancement and Out-loop Super-resolution] 
-
 Jian Yang, **Jiayao Xu**, Jinjia Zhou
 
 - `DCC` [Zigzag Ordered Walsh Matrix for Compressed Sensing Image Sensor](https://ieeexplore.ieee.org/abstract/document/10125342)
-
 Jinyao Zhou, **Jiayao Xu**, Jirayu Peetakul, Jinjia Zhou
 
 - `ICIP` [Dynamic Unilateral Dual Learning for Text-to-Image Synthesis](https://ieeexplore.ieee.org/abstract/document/10223128)
-
 Zhiqiang Zhang, **Jiayao Xu**, Ryugo Morita, Wenxin Yu, Jinjia Zhou
 
 - `IJCNN, ACCEPT` [High Frequency Feature Distillation Network for Compressive Sensing Reconstruction]
-
 Fuma Kimishima, **Jiayao Xu**, Jinjia Zhou
 
 - `MMSP` [Optimizing CABAC architecture with prediction based context model prefetching](https://ieeexplore.ieee.org/abstract/document/9949499)
-
 Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 
@@ -96,7 +86,8 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 - *2014.09 - 2018.06*, Bachelor, Southwest University of Science and Technology, Sichuan, China.
 
 # 💬 Invited Talks
-- *2023.10*, Image Compression using Compressive Sensing Seminar with Fudan University and Zhejiang University.
+- *2023.10*, Compressive Sensing Based Image Codec With Partial Pre-Calculation talk in Institut National des Sciences Appliquées de Rennes, INSA de Rennes.
+- *2022.09 - 2024.03*, Regular seminar with Fudan University and Zhejiang University for Image Compression using Compressive Sensing.
 - *2022.08*, Compressive Sensing Seminar with Osaka Univerisity.
 - *2022.06*, Real-time hardware design for Compressive Sensing reconstruction talk, MMM 2022.
 - *2022.05*, a hardware design reaches 81.92 GPixel/s for Compressive Sensing reconstruction talk, ISCAS 2022.
