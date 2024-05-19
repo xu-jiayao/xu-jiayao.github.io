@@ -24,7 +24,7 @@ My **research interest** lies in _**Image Codec design**_ based on _**Compressiv
 
 As one of the leading areas in representing low-dimensional structured data, **Compressive Sensing** stands out as a pioneering theory in signal sampling. It leverages data sparsity to enable downsampling, thereby minimizing hardware demands in analog-to-digital (ADC) processing. 
 
-Throughout my doctoral and master's studies, I have authored 10 papers, most of which have been published in leading conferences and journals in the fields of image processing and hardware implementation, including **TMM, CVM, MMM, ISCAS, DCC**, among others. 
+Throughout my doctoral and master's studies, I have authored 10 papers, most of which have been published in leading conferences and journals in the fields of image processing and hardware implementation, including **TMM, CVM, MMM, ISCAS, DCC, ICIP, IJCNN**, among others. 
 
 I possess a strong ability for **self-directed learning** and have **independently acquired knowledge** in areas relevant to my research topic during my graduate studies, as well as in iOS application development during my undergraduate studies.
 
