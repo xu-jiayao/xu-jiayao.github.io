@@ -43,34 +43,52 @@ I am currently actively seeking employment opportunities and aspire to join a gr
 
 # 📝 Publications 
 
-[Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
+- `TMM` [Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
 
 **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
 
 
+- `MMM` [Real-time FPGA Design for OMP Targeting 8K image Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 
+**Jiayao Xu**, Chen Fu, Zhiqiang Zhang, Jinjia Zhou
 
+- `ISCAS` [An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements](https://ieeexplore.ieee.org/abstract/document/9937930)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Jiayao Xu**, Pham Do Kim Chi, Chen Fu, Jinjia Zhou
 
-[Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
+- `ICVIP` [High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
 
-**Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
+**Jiayao Xu**, Jirayu Peetakul, Muchen Li, Jinjia Zhou
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- `Peer Review` [Plug-and-Play Adaptive Block Compressive Sensing using Edge-Detection on the Compressed Domain]
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
+**Jiayao Xu**, Yibo Fan, Jinjia Zhou
 
+- `CVM, ACCEPT` [JVCSR+: Adaptively Learned Video Compressive Sensing Reconstruction with Joint In-loop Reference Enhancement and Out-loop Super-resolution] 
 
+Jian Yang, **Jiayao Xu**, Jinjia Zhou
 
+- `DCC` [Zigzag Ordered Walsh Matrix for Compressed Sensing Image Sensor](https://ieeexplore.ieee.org/abstract/document/10125342)
+
+Jinyao Zhou, **Jiayao Xu**, Jirayu Peetakul, Jinjia Zhou
+
+- `ICIP` [Dynamic Unilateral Dual Learning for Text-to-Image Synthesis](https://ieeexplore.ieee.org/abstract/document/10223128)
+
+Zhiqiang Zhang, **Jiayao Xu**, Ryugo Morita, Wenxin Yu, Jinjia Zhou
+
+- `IJCNN, ACCEPT` [High Frequency Feature Distillation Network for Compressive Sensing Reconstruction]
+
+Fuma Kimishima, **Jiayao Xu**, Jinjia Zhou
+
+- `MMSP` [Optimizing CABAC architecture with prediction based context model prefetching](https://ieeexplore.ieee.org/abstract/document/9949499)
+
+Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 
 
 # Projects 
+
+
 
 # 📖 Educations
 - *2020.09 - 2024.03*, Ph.D, Hosei University, Tokyo, Japan.
