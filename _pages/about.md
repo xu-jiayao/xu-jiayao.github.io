@@ -102,8 +102,10 @@ methods to validate code accuracy and fortify system stability.
 4. Implemented the network layer, performing JSON encapsulation of data packets. Collaborated with
 the backend team to test the network layer, ensuring seamless communication with backend services and
 making necessary adjustments to meet requirements.
-  
-![avatar](/images/iswust1.jpg | width=100)  ![avatar](/images/iswust2.png | width=100)
+
+
+<img src="/images/iswust1.jpg" width="100" >
+![avatar](/images/iswust1.jpg)  ![avatar](/images/iswust2.png)
 
 
 
