@@ -26,10 +26,18 @@ Throughout my doctoral and master's studies, I have authored 10 papers, most of 
 
 I possess a strong ability for **self-directed learning** and have **independently acquired knowledge** in areas relevant to my research topic during my graduate studies, as well as in iOS application development during my undergraduate studies.
 
-I am currently actively seeking post doctor or researcher opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
+I am currently actively seeking post-doctoral or researcher opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
 
 # 🎥 About Compressive Sensing and Image Codec
+1. Image Codec
+   Similar to other compression and data representation techniques, the aim of image codecs is to reduce image redundancies, thereby necessitating fewer bits to convey the entire image information, thus conserving storage space while preserving quality.
+   Compression methods utilized in image codecs can be categorized into two main groups: lossy compression and lossless compression.
+   Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios..
+
+3. Compressive Sensing
 As one of the leading areas in representing low-dimensional structured data, **Compressive Sensing** stands out as a pioneering theory in signal sampling. It leverages data sparsity to enable downsampling, thereby minimizing hardware demands in analog-to-digital (ADC) processing. 
+cost time and computation on reconstruction 
+
 
 
 # 📝 Publications 
@@ -92,7 +100,7 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 • Introduction:
 
-Provide on-campus students services such as checking lecture schedules, accessing library book collection information, verifying campus card balances, and processing recharges.
+Provide on-campus student services such as checking lecture schedules, accessing library book collection information, verifying campus card balances, and processing recharges.
 
 • Responsibility:
   
