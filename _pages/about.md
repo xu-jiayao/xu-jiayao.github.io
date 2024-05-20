@@ -22,16 +22,14 @@ I obtained my Ph.D. degree from Hosei University in March 2024 and my M.S. degre
 
 My **research interest** lies in _**Image Codec design**_ based on _**Compressive Sensing**_, which encompasses _**Hardware Implementation**_ and _**Deep Learning**_. 
 
-As one of the leading areas in representing low-dimensional structured data, **Compressive Sensing** stands out as a pioneering theory in signal sampling. It leverages data sparsity to enable downsampling, thereby minimizing hardware demands in analog-to-digital (ADC) processing. 
-
 Throughout my doctoral and master's studies, I have authored 10 papers, most of which have been published in leading conferences and journals in the fields of image processing and hardware implementation, including **TMM, CVM, MMM, ISCAS, DCC, ICIP, IJCNN**, among others. 
 
 I possess a strong ability for **self-directed learning** and have **independently acquired knowledge** in areas relevant to my research topic during my graduate studies, as well as in iOS application development during my undergraduate studies.
 
-I am currently actively seeking employment opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
+I am currently actively seeking post doctor or researcher opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
 
 # 🎥 About Compressive Sensing and Image Codec
-
+As one of the leading areas in representing low-dimensional structured data, **Compressive Sensing** stands out as a pioneering theory in signal sampling. It leverages data sparsity to enable downsampling, thereby minimizing hardware demands in analog-to-digital (ADC) processing. 
 
 
 # 📝 Publications 
@@ -94,22 +92,17 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 • Introduction:
 
-Provide on-campus students with services such as checking lecture schedules, library book collection information, checking campus card balances, and recharging.
+Provide on-campus students services such as checking lecture schedules, accessing library book collection information, verifying campus card balances, and processing recharges.
 
 • Responsibility:
   
-1. Participated in designing APIs, as well as modifying API documentation to ensure effective utilization
-and comprehension by the development team.
+1. Contributed to API design and revised API documentation to enhance comprehension and utilization by the development team.
 
-2. Refactored the existing application, utilizing Git version control to streamline code collaboration and
-project management. Various design patterns were employed to minimize coupling and improve code maintainability.
+2. Conducted a refactoring of the existing application, employing Git version control to facilitate code collaboration and project management. Utilized various design patterns to reduce coupling and enhance code maintainability.
 
-3. Designed and implemented the functionality of the library and login modules, incorporating testing
-methods to validate code accuracy and fortify system stability.
+3. Developed and integrated functionality for library and login modules, implementing rigorous testing methods to validate code accuracy and reinforce system stability.
 
-4. Implemented the network layer, performing JSON encapsulation of data packets. Collaborated with
-the backend team to test the network layer, ensuring seamless communication with backend services and
-making necessary adjustments to meet requirements.
+4. Orchestrated the implementation of the network layer, encapsulating data packets in JSON format. Collaborated closely with the backend team to conduct comprehensive testing of the network layer, ensuring seamless communication with backend services and making necessary adjustments to meet project requirements.
 
 
 <img src="/images/iswust1.jpg" width="300" >
