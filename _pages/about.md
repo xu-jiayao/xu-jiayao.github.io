@@ -76,8 +76,13 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 
 
-# Projects 
-• iOS App Store Project: iSWUST | 3,000+ Active Users | Mobile Web Laboratory | Sep.2015 – Mar.2017
+# iOS App Store Project
+**Name**: iSWUST (i西科) 
+**Supported users**: 3,000+ Active Users 
+**Laboratory**: Mobile Web Laboratory 
+**Work duration**: Sep.2015 – Mar.2017
+**Online Time**: December 4th, 2016
+**Current status**: out of service.
 
 - Introduction:
 
@@ -97,11 +102,8 @@ methods to validate code accuracy and fortify system stability.
 4. Implemented the network layer, performing JSON encapsulation of data packets. Collaborated with
 the backend team to test the network layer, ensuring seamless communication with backend services and
 making necessary adjustments to meet requirements.
-
-- Online Time: December 4th, 2016
   
-  Now is out of service.
-
+![avatar](/images/iswust1)
 
 
 
