@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Profile 
+# 🙋‍♀️ Profile 
 I obtained my Ph.D. degree from Hosei University in March 2024 and my M.S. degree in September 2020. 
 
 My **research interest** lies in _**Image Codec design**_ based on _**Compressive Sensing**_, which encompasses _**Hardware Implementation**_ and _**Deep Learning**_. 
