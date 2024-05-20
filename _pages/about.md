@@ -32,16 +32,19 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 1. Image Codec (Encoder & Decoder)
    
    Similar to other data compression and feature extraction techniques, the aim of image codecs is to reduce image redundancies, thereby necessitating fewer bits to convey the entire image information, thus conserving storage space while preserving quality.
+   
    Compression methods utilized in image codecs can be categorized into two main groups: lossy compression and lossless compression.
    Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios.
+   
    In traditional codecs, the decoder is an inverse calculation of the encoder, requiring less computation costs.
  
-2. Compressive Sensing (CS)
-   
-   As one of the leading areas in representing low-dimensional structured data, Compressive Sensing stands out as a pioneering theory in signal sampling.
-   It breaks the limitation of the commonly used Nyquist sampling theorem by leveraging data sparsity to enable downsampling, thereby minimizing hardware demands in analog-to-digital (ADC) processing.
-   Using CS, the sampling is a simple linear projection while the computation complexity is all transferred to the reconstruction, which offers the same function as the decoder used in the traditional image codecs. The reconstruction is an NP-Hard problem, thus hard to real-time and find the precise result, becoming the main bottleneck of the application of the CS.
+3. Compressive Sensing (CS)
 
+   As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
+   It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (ADC) processing.
+
+   In CS, sampling entails a straightforward linear projection, while the computational complexity is shifted to the reconstruction phase, akin to the function performed by decoders in traditional image codecs.
+   However, reconstruction poses an NP-Hard problem, making real-time processing and precise results challenging to attain, thereby becoming a primary bottleneck in CS applications.
 
 
 # 📝 Publications 
