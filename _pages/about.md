@@ -30,7 +30,7 @@ I possess a strong ability for **self-directed learning** and have **independent
 
 I am currently actively seeking employment opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
 
-# About Compressive Sensing and Image Codec
+# 🎥 About Compressive Sensing and Image Codec
 
 
 
@@ -79,7 +79,7 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 • **OS (environment setting and system maintenance):** Windows, Centos 7, Ubuntu 18, macOS
 
-# iOS App Store Project
+# 👩‍💻 iOS App Store Project
 **Name**: iSWUST (i西科) 
 
 **Supported users**: 3,000+ Active Users 
