@@ -89,7 +89,7 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 • **OS (environment setting and system maintenance):** Windows, Centos 7, Ubuntu 18, macOS
 
-# 👩‍💻 iOS App Store Project
+# 👩‍💻 iOS Project
 **Name**: iSWUST (i西科) 
 
 **Supported users**: 3,000+ Active Users 
