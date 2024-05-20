@@ -104,8 +104,8 @@ the backend team to test the network layer, ensuring seamless communication with
 making necessary adjustments to meet requirements.
 
 
-<img src="/images/iswust1.jpg" width="100" >
-![avatar](/images/iswust1.jpg)  ![avatar](/images/iswust2.png)
+<img src="/images/iswust1.jpg" width="300" >
+<img src="/images/iswust2.png" width="300" >
 
 
 
