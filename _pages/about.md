@@ -77,6 +77,31 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 
 # Projects 
+• iOS App Store Project: iSWUST | 3,000+ Active Users | Mobile Web Laboratory | Sep.2015 – Mar.2017
+
+- Introduction:
+
+Provide on-campus students with services such as checking lecture schedules, library book collection information, checking campus card balances, and recharging.
+
+- Responsibility:
+  
+1. Participated in designing APIs, as well as modifying API documentation to ensure effective utilization
+and comprehension by the development team.
+
+2. Refactored the existing application, utilizing Git version control to streamline code collaboration and
+project management. Various design patterns were employed to minimize coupling and improve code maintainability.
+
+3. Designed and implemented the functionality of the library and login modules, incorporating testing
+methods to validate code accuracy and fortify system stability.
+
+4. Implemented the network layer, performing JSON encapsulation of data packets. Collaborated with
+the backend team to test the network layer, ensuring seamless communication with backend services and
+making necessary adjustments to meet requirements.
+
+- Online Time: December 4th, 2016
+  
+  Now is out of service.
+
 
 
 
