@@ -78,10 +78,15 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 # iOS App Store Project
 **Name**: iSWUST (i西科) 
+
 **Supported users**: 3,000+ Active Users 
-**Laboratory**: Mobile Web Laboratory 
+
+**Laboratory**: Mobile Web Laboratory (移动互联网实验室)
+
 **Work duration**: Sep.2015 – Mar.2017
+
 **Online Time**: December 4th, 2016
+
 **Current status**: out of service.
 
 - Introduction:
