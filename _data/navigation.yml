@@ -3,12 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Skills"
-    url: "/#-skills"
+  - title: "Research Intro"
+    url: "/#-about-compressive-sensing-and-image-codec"
 
   - title: "Publications"
     url: "/#-publications"
+    
+  - title: "Skills"
+    url: "/#-skills"
 
+  - title: "iOS Project"
+    url: "/#-iOS-app-store-project"
 
   - title: "Educations"
     url: "/#-educations"
