@@ -30,12 +30,14 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 # 🎥 About Compressive Sensing and Image Codec
 1. Image Codec (Encoder & Decoder)
+   
    Similar to other data compression and feature extraction techniques, the aim of image codecs is to reduce image redundancies, thereby necessitating fewer bits to convey the entire image information, thus conserving storage space while preserving quality.
    Compression methods utilized in image codecs can be categorized into two main groups: lossy compression and lossless compression.
    Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios.
    In traditional codecs, the decoder is an inverse calculation of the encoder, requiring less computation costs.
  
-3. Compressive Sensing (CS)
+2. Compressive Sensing (CS)
+   
    As one of the leading areas in representing low-dimensional structured data, Compressive Sensing stands out as a pioneering theory in signal sampling.
    It breaks the limitation of the commonly used Nyquist sampling theorem by leveraging data sparsity to enable downsampling, thereby minimizing hardware demands in analog-to-digital (ADC) processing.
    Using CS, the sampling is a simple linear projection while the computation complexity is all transferred to the reconstruction, which offers the same function as the decoder used in the traditional image codecs. The reconstruction is an NP-Hard problem, thus hard to real-time and find the precise result, becoming the main bottleneck of the application of the CS.
