@@ -103,7 +103,7 @@ methods to validate code accuracy and fortify system stability.
 the backend team to test the network layer, ensuring seamless communication with backend services and
 making necessary adjustments to meet requirements.
   
-![avatar](/images/iswust1.jpg)
+![avatar](/images/iswust1.jpg | width=100)  ![avatar](/images/iswust2.png | width=100)
 
 
 
