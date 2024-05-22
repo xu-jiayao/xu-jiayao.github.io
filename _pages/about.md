@@ -96,7 +96,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 3. The sampling and compression process in CS. </div>
+    padding: 2px;">Figure 4. The sampling and compression process in CS. </div>
   </center>
 
   ([high resolution version](/images/research/reconstruction process.pdf))
@@ -109,7 +109,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 3. The sampling and compression process in CS. </div>
+    padding: 2px;">Figure 5. The sampling and compression process in CS. </div>
   </center>
 
   ([high resolution version](/images/research/parameter relation.pdf))
@@ -122,7 +122,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 3. The sampling and compression process in CS. </div>
+    padding: 2px;">Figure 6. The sampling and compression process in CS. </div>
   </center>
 
 
