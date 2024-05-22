@@ -57,6 +57,12 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
    As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
    It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (A/D) processing.
+   
+  In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. 
+   
+   Down-sampling is achieved by reducing the signal's dimensionality, and the compression ratio of CS represents the dimensional ratio between the original and compressed signals.
+   **However, the compression ratio, in terms of bits per pixel (bpp), is still not satisfied. In addition, reconstruction is an NP-hard problem, making real-time processing challenging, thus becoming a primary bottleneck in CS applications.**
+   
 
    ([high resolution version of Fig.2](/images/research/compressive sensing framework.pdf))
    
@@ -74,10 +80,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    
 <!---  <br>  It offers cost-effective sampling compared to convolutional codecs but encounters two main challenges: inadequate compression ratios, measured in bits per pixel (bpp), and difficulties in real-time processing due to the reconstruction process.  -->
 
-   In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. 
    
-   Down-sampling is achieved by reducing the signal's dimensionality, and the compression ratio of CS represents the dimensional ratio between the original and compressed signals.
-   **However, the compression ratio, in terms of bits per pixel (bpp), is still not satisfied.**
   
 <!---    This process of sampling and compression, which involves hardware devices, is typically implemented through software simulation.
 
@@ -95,11 +98,8 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     color: #999;
     padding: 2px;">Figure 3. The sampling and compression process in CS. </div>
   </center>
-  <br>  -->
-   
-  **On the other hand, reconstruction is an NP-hard problem, making real-time processing challenging, thus becoming a primary bottleneck in CS applications.**
-   
-   Two conditions are essential to guarantee successful reconstruction. The first is the sparsity of the original signal. Since image signals are dense, a transform matrix is introduced to sparsify the image signal. The second condition is the incoherence between the transform matrix and the measurement matrix. 
+  <br>  
+   Two conditions are essential to guarantee successful reconstruction. The first is the sparsity of the original signal. Since image signals are dense, a transform matrix is introduced to sparsify the image signal. The second condition is the incoherence between the transform matrix and the measurement matrix. -->
    
 <!---   The reconstruction theory, reconstruction process, and the relationship among parameters used in reconstruction are as follows:
    
