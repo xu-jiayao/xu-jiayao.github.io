@@ -29,7 +29,7 @@ I possess a strong ability for **self-directed learning** and have **independent
 I am currently actively seeking post-doctoral or researcher opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
 
 # 🎥 About Compressive Sensing and Image Codec
-1. Image Codec (Encoder & Decoder)
+1. **Image Codec (Encoder & Decoder)**
    
    Similar to other data compression and feature extraction techniques, the aim of image codecs is to reduce image redundancies, thereby necessitating fewer bits to convey the entire image information, thus conserving storage space while preserving quality.
    
@@ -50,10 +50,10 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     color: #999;
     padding: 2px;">Figure 1. The convolutional codecs framework.</div>
   </center>
-
+<br> 
    
  
-3. Compressive Sensing (CS)
+2. **Compressive Sensing (CS)**
 
    As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
    It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (A/D) processing.
@@ -70,9 +70,10 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     color: #999;
     padding: 2px;">Figure 2. The Compressive Sensing framework. </div>
   </center>
-   
+   <br> 
 
-   In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. This process, which involves hardware devices, is typically implemented through software simulation. The details of the simulation are as follows:
+   In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. 
+   This process, which involves hardware devices, is typically implemented through software simulation. The details of the simulation are as follows:
    
    ([high resolution version of Fig.3](/images/research/sampling.pdf))
 
@@ -86,6 +87,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     color: #999;
     padding: 2px;">Figure 3. The sampling and compression process in CS. </div>
   </center>
+  <br> 
    
    However, reconstruction is an NP-hard problem, making real-time processing and achieving precise results challenging, thus becoming a primary bottleneck in CS applications. 
    Two conditions are essential to guarantee successful reconstruction. The first is the sparsity of the original signal. Since image signals are dense, a transform matrix is introduced to sparsify the image signal. The second condition is the incoherence between the transform matrix and the measurement matrix. 
@@ -102,6 +104,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     color: #999;
     padding: 2px;">Figure 4. The reconstruction issue description. </div>
   </center>
+  <br> 
 
   ([high resolution version of Fig.5](/images/research/reconstruction process.pdf))
 
@@ -115,6 +118,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     color: #999;
     padding: 2px;">Figure 5. The reconstruction process. </div>
   </center>
+  <br> 
 
   ([high resolution version of Fig.6](/images/research/parameter relation.pdf))
 
@@ -128,6 +132,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     color: #999;
     padding: 2px;">Figure 6. The relationship among parameters used in the reconstruction. </div>
   </center>
+  <br> 
 
 
 # 📝 Publications 
