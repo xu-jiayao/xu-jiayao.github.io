@@ -68,7 +68,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 2. The Compressive Sensing framework. It faces two main issues. First, the compression ratio, in terms of bits per pixel (bpp), is still not satisfactory. Second, the reconstruction process makes real-time processing challenging. </div>
+    padding: 2px;">Figure 2. The Compressive Sensing framework. **It offers cost-effective sampling compared to convolutional codecs but encounters two main challenges**: inadequate compression ratios, measured in bits per pixel (bpp), and difficulties in real-time processing due to the reconstruction process. </div>
   </center>
    <br> 
 
