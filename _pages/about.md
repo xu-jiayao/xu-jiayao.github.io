@@ -36,7 +36,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    Compression methods utilized in image codecs can be categorized into two main groups: lossy compression and lossless compression.
    Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios.
    
-   In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: ([high resolution version](/images/research/convolutional codec frameworks.pdf))
+   In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: ([high resolution version of Fig.1](/images/research/convolutional codec frameworks.pdf))
    
   <center>
     <img style="border-radius: 0.3125em;
@@ -55,7 +55,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
    As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
    It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (A/D) processing.
-   ([high resolution version](/images/research/compressive sensing framework.pdf))
+   ([high resolution version of Fig.2](/images/research/compressive sensing framework.pdf))
    
   <center>
     <img style="border-radius: 0.3125em;
@@ -70,7 +70,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    
 
    In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. This process, which involves hardware devices, is typically implemented through software simulation. The details of the simulation are as follows:
-   ([high resolution version](/images/research/sampling.pdf))
+   ([high resolution version of Fig.3](/images/research/sampling.pdf))
 
    <center>
     <img style="border-radius: 0.3125em;
@@ -86,7 +86,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    However, reconstruction is an NP-hard problem, making real-time processing and achieving precise results challenging, thus becoming a primary bottleneck in CS applications. 
    Two conditions are essential to guarantee successful reconstruction. The first is the sparsity of the original signal. Since image signals are dense, a transform matrix is introduced to sparsify the image signal. The second condition is the incoherence between the transform matrix and the measurement matrix. 
    The reconstruction theory, reconstruction process, and the relationship among parameters used in reconstruction are as follows:
-   ([high resolution version](/images/research/reconstruction problem.pdf))
+   ([high resolution version of Fig.4](/images/research/reconstruction problem.pdf))
 
    <center>
     <img style="border-radius: 0.3125em;
@@ -96,10 +96,10 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 4. The sampling and compression process in CS. </div>
+    padding: 2px;">Figure 4. The reconstruction issue description. </div>
   </center>
 
-  ([high resolution version](/images/research/reconstruction process.pdf))
+  ([high resolution version of Fig.5](/images/research/reconstruction process.pdf))
 
    <center>
     <img style="border-radius: 0.3125em;
@@ -109,10 +109,10 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 5. The sampling and compression process in CS. </div>
+    padding: 2px;">Figure 5. The reconstruction process. </div>
   </center>
 
-  ([high resolution version](/images/research/parameter relation.pdf))
+  ([high resolution version of Fig.6](/images/research/parameter relation.pdf))
 
    <center>
     <img style="border-radius: 0.3125em;
@@ -122,7 +122,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 6. The sampling and compression process in CS. </div>
+    padding: 2px;">Figure 6. The relationship among parameters used in the reconstruction. </div>
   </center>
 
 
