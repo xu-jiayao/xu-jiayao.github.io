@@ -72,7 +72,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
   </center>
    <br> 
    
-<!---  <br>  It offers cost-effective sampling compared to convolutional codecs but encounters two main challenges: inadequate compression ratios, measured in bits per pixel (bpp), and difficulties in real-time processing due to the reconstruction process. -->
+<!---  <br>  It offers cost-effective sampling compared to convolutional codecs but encounters two main challenges: inadequate compression ratios, measured in bits per pixel (bpp), and difficulties in real-time processing due to the reconstruction process.  -->
 
    In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. 
    
@@ -80,7 +80,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    **However, the compression ratio, in terms of bits per pixel (bpp), is still not satisfied.**
   
    This process of sampling and compression, which involves hardware devices, is typically implemented through software simulation. 
-   <!--- The details of the simulation are as follows:
+<!---   The details of the simulation are as follows:
    
    ([high resolution version of Fig.3](/images/research/sampling.pdf))
 
