@@ -94,6 +94,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    Two conditions are essential to guarantee successful reconstruction. The first is the sparsity of the original signal. Since image signals are dense, a transform matrix is introduced to sparsify the image signal. The second condition is the incoherence between the transform matrix and the measurement matrix. 
    
    The reconstruction theory, reconstruction process, and the relationship among parameters used in reconstruction are as follows:
+   
    ([high resolution version of Fig.4](/images/research/reconstruction problem.pdf))
 
    <center>
