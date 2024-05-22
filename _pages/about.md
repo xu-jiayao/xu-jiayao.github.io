@@ -68,13 +68,15 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 2. The Compressive Sensing framework. </div>
+    padding: 2px;">Figure 2. The Compressive Sensing framework. It faces two main issues. First, the compression ratio, in terms of bits per pixel (bpp), is still not satisfactory. Second, the reconstruction process makes real-time processing and achieving precise results challenging. </div>
   </center>
    <br> 
 
    In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. 
+   
    Down-sampling is achieved by reducing the signal's dimensionality, and the compression ratio of CS represents the dimensional ratio between the original and compressed signals.
    **However, the compression ratio, in terms of bits per pixel (bpp), is still not satisfied.**
+  
    This process of sampling and compression, which involves hardware devices, is typically implemented through software simulation. The details of the simulation are as follows:
    
    ([high resolution version of Fig.3](/images/research/sampling.pdf))
