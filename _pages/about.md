@@ -37,15 +37,17 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios.
    
    In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: 
+   <font color = blue> [high resolution version](/images/research/convolutional codec frameworks.pdf) <\font>
+   
    <img src="/images/research/convolutional codec frameworks.bmp" >
-    [high resolution version](/images/research/convolutional codec frameworks.pdf)
  
 3. Compressive Sensing (CS)
 
    As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
    It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (A/D) processing.
-   <img src="/images/research/compressive sensing framework.bmp" >
    [high resolution version](/images/research/compressive sensing framework.pdf)
+   
+   <img src="/images/research/compressive sensing framework.bmp" >
    
 
    In CS, sampling entails a straightforward linear projection, while the computational complexity is shifted to the reconstruction phase, akin to the function performed by decoders in traditional image codecs.
