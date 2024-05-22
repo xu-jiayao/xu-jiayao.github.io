@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiayao XU"
-description              : "Focusing on designing Image codecs based on Compressive Sensing, including Hardware Implementation and Deep Learning aspects."
+description              : "Focusing on designing <b>Image codecs</b> based on Compressive Sensing, including Hardware Implementation and Deep Learning aspects."
 repository               : "xu-jiayao/xu-jiayao.github.io"
 google_scholar_stats_use_cdn : true
 
