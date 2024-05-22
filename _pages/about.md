@@ -36,7 +36,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    Compression methods utilized in image codecs can be categorized into two main groups: lossy compression and lossless compression.
    Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios.
    
-   In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: ( [high resolution version](/images/research/convolutional codec frameworks.pdf))
+   In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: ([high resolution version](/images/research/convolutional codec frameworks.pdf))
    
   <center>
     <img style="border-radius: 0.3125em;
@@ -46,8 +46,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure.1 Convolutional codecs framework.
-</div>
+    padding: 2px;">Figure.1 Convolutional codecs framework.</div>
   </center>
 
    
@@ -56,15 +55,33 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
    As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
    It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (A/D) processing.
-   [high resolution version](/images/research/compressive sensing framework.pdf)
+   ([high resolution version](/images/research/compressive sensing framework.pdf))
    
-   <img src="/images/research/compressive sensing framework.bmp" >
+  <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="/images/research/compressive sensing framework.bmp">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure.1 Convolutional codecs framework.</div>
+  </center>
    
 
    In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. This process, which involves hardware devices, is typically implemented through software simulation. The details of the simulation are as follows:
-   [high resolution version](/images/research/sampling.pdf)
-   
-   <img src="/images/research/sampling.bmp" >
+   ([high resolution version](/images/research/sampling.pdf))
+
+   <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="/images/research/sampling.bmp">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure.1 Convolutional codecs framework.</div>
+  </center>
    
    However, reconstruction poses an NP-Hard problem, making real-time processing and precise results challenging to attain, thereby becoming a primary bottleneck in CS applications.
    there are two conditions to guarantee the reconstruction. First is the sparsity of the original signal. As the image signal is tense, the transform matrix is introduced into the framework to sparse the image signal. The other is the incoherence between the transform matrix with the measurement matrix. The relationship among these parameters are as follows:
