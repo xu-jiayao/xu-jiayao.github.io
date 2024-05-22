@@ -148,9 +148,42 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 # 📝 Publications 
 
+**Improve the Compression Ratio: MATLAB**
+
+ Existing Issues:
+– The compression ratio achieved by the initial CS-based codec is insufficient.
+– To improve the compression ratio, intra-prediction, quantization, and entropy coding are integrated into
+the original framework.
+– Intra-prediction results in time consumption.
+– The input data lacks sufficient sparsity for quantization, resulting in noticeable quality degradation as
+the quantization parameter increases, despite improved compression rates.
+
+◦ Our Proposal:
+– The previous simplified reconstruction algorithm was divided into two distinct components. It was
+observed that processing the first reconstruction part yielded sparser data.
+– Moving the first reconstruction part to the encoder reduces decoding time and functions similarly to
+intra-prediction in other methods, with minimal complexity increase for obtaining sparser data.
+– Leveraging this sparser data improves the compression ratio and reduces quantization degradation.
+– This effort yielded a reduction of 16.16% in bpp, accompanied by a 38.46% increase in quality, and an
+overall speedup of 165.18 × in terms of time cost.
+
+
 - `TMM` [Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
 **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
 
+
+**Speedup Reconstruction: FPGA**
+
+◦ Existing Issues:
+– Time cost of reconstruction is the Primary bottleneck in CS.
+– Current reconstruction efforts aim to enhance speed while ensuring the generality of the measurement matrix.
+– There’s a tradeoff between generality and speed, with hardware limitations preventing alteration of the selected sampling matrix.
+
+◦ Our Proposal:
+– Identify a sampling matrix that produces a sparse sensing matrix for reconstruction, yielding high-quality results.
+– Utilize the sparsity of the sensing matrix to streamline each iteration in the reconstruction process.
+– Simplify the reconstruction further, replacing iterative reconstruction with a single matrix multiplication.
+– Achieve the fastest reconstruction speed of 81.92Gpixels/s while demanding minimal hardware resources
 
 - `MMM` [Real-time FPGA Design for OMP Targeting 8K image Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 **Jiayao Xu**, Chen Fu, Zhiqiang Zhang, Jinjia Zhou
@@ -158,6 +191,12 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 - `ISCAS` [An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements](https://ieeexplore.ieee.org/abstract/document/9937930)
 **Jiayao Xu**, Pham Do Kim Chi, Chen Fu, Jinjia Zhou
 
+<div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;"> </div>
+
+    
 - `ICVIP` [High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
 **Jiayao Xu**, Jirayu Peetakul, Muchen Li, Jinjia Zhou
 
