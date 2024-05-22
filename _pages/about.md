@@ -73,7 +73,9 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    <br> 
 
    In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. 
-   This process, which involves hardware devices, is typically implemented through software simulation. The details of the simulation are as follows:
+   Down-sampling is achieved by reducing the signal's dimensionality, and the compression ratio of CS represents the dimensional ratio between the original and compressed signals.
+   **However, the compression ratio, in terms of bits per pixel (bpp), is still not satisfied.**
+   This process of sampling and compression, which involves hardware devices, is typically implemented through software simulation. The details of the simulation are as follows:
    
    ([high resolution version of Fig.3](/images/research/sampling.pdf))
 
@@ -89,7 +91,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
   </center>
   <br> 
    
-   However, reconstruction is an NP-hard problem, making real-time processing and achieving precise results challenging, thus becoming a primary bottleneck in CS applications. 
+  **On the other hand, reconstruction is an NP-hard problem, making real-time processing and achieving precise results challenging, thus becoming a primary bottleneck in CS applications.**
    
    Two conditions are essential to guarantee successful reconstruction. The first is the sparsity of the original signal. Since image signals are dense, a transform matrix is introduced to sparsify the image signal. The second condition is the incoherence between the transform matrix and the measurement matrix. 
    
