@@ -37,8 +37,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios.
    
    In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: 
-   [high resolution version](/images/research/convolutional codec frameworks.pdf)
-
+   
   <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -47,7 +46,8 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure.1 Convolutional codecs framework</div>
+    padding: 2px;">Figure.1 Convolutional codecs framework. [high resolution version](/images/research/convolutional codec frameworks.pdf)
+</div>
   </center>
 
    
