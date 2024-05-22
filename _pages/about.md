@@ -58,9 +58,8 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
    It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (A/D) processing.
 
-   In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs.
+   In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. Down-sampling is achieved by reducing the signal's dimensionality, and the compression ratio of CS represents the dimensional ratio between the original and compressed signals.
 
-   Down-sampling is achieved by reducing the signal's dimensionality, and the compression ratio of CS represents the dimensional ratio between the original and compressed signals.
    **However, the compression ratio, in terms of bits per pixel (bpp), is still not satisfied. In addition, reconstruction is an NP-hard problem, making real-time processing challenging, thus becoming a primary bottleneck in CS applications.**
    
 
