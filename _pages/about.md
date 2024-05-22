@@ -37,7 +37,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios.
    
    In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: 
-   <font color = blue> [high resolution version](/images/research/convolutional codec frameworks.pdf) <\font>
+   [high resolution version](/images/research/convolutional codec frameworks.pdf) 
    
    <img src="/images/research/convolutional codec frameworks.bmp" >
  
@@ -50,7 +50,11 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    <img src="/images/research/compressive sensing framework.bmp" >
    
 
-   In CS, sampling entails a straightforward linear projection, while the computational complexity is shifted to the reconstruction phase, akin to the function performed by decoders in traditional image codecs.
+   In CS, sampling and compression entail a straightforward linear projection, while the computational complexity is shifted to the reconstruction phase, akin to the function performed by decoders in traditional image codecs. As this process involves the hardware devices, it is implemented by the simulation on the software. The details of the simulation is as follows:
+   <font color = blue> [high resolution version](/images/research/compressive sensing framework.pdf)<\font>
+   
+   <img src="/images/research/compressive sensing framework.bmp" >
+   
    However, reconstruction poses an NP-Hard problem, making real-time processing and precise results challenging to attain, thereby becoming a primary bottleneck in CS applications.
 
 
