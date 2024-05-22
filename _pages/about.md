@@ -140,7 +140,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     color: #999;
     padding: 2px;">Figure 6. The relationship among parameters used in the reconstruction. </div>
   </center>
-  <br>  ---!>
+  <br>  -->
 
 
 # 📝 Publications 
