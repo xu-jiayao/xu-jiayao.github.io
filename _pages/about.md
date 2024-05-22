@@ -68,7 +68,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 2. The Compressive Sensing framework. It faces two main issues. First, the compression ratio, in terms of bits per pixel (bpp), is still not satisfactory. Second, the reconstruction process makes real-time processing and achieving precise results challenging. </div>
+    padding: 2px;">Figure 2. The Compressive Sensing framework. It faces two main issues. First, the compression ratio, in terms of bits per pixel (bpp), is still not satisfactory. Second, the reconstruction process makes real-time processing challenging. </div>
   </center>
    <br> 
 
@@ -93,7 +93,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
   </center>
   <br> 
    
-  **On the other hand, reconstruction is an NP-hard problem, making real-time processing and achieving precise results challenging, thus becoming a primary bottleneck in CS applications.**
+  **On the other hand, reconstruction is an NP-hard problem, making real-time processing challenging, thus becoming a primary bottleneck in CS applications.**
    
    Two conditions are essential to guarantee successful reconstruction. The first is the sparsity of the original signal. Since image signals are dense, a transform matrix is introduced to sparsify the image signal. The second condition is the incoherence between the transform matrix and the measurement matrix. 
    
