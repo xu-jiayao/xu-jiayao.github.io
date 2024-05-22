@@ -36,7 +36,9 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    Compression methods utilized in image codecs can be categorized into two main groups: lossy compression and lossless compression.
    Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios.
    
-   In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: ([high resolution version of Fig.1](/images/research/convolutional codec frameworks.pdf))
+   In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows:
+
+   ([high resolution version of Fig.1](/images/research/convolutional codec frameworks.pdf))
    
   <center>
     <img style="border-radius: 0.3125em;
@@ -55,6 +57,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
    As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
    It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (A/D) processing.
+
    ([high resolution version of Fig.2](/images/research/compressive sensing framework.pdf))
    
   <center>
@@ -70,6 +73,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    
 
    In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. This process, which involves hardware devices, is typically implemented through software simulation. The details of the simulation are as follows:
+   
    ([high resolution version of Fig.3](/images/research/sampling.pdf))
 
    <center>
