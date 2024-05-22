@@ -29,7 +29,7 @@ I possess a strong ability for **self-directed learning** and have **independent
 I am currently actively seeking post-doctoral or researcher opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
 
 # 🎥 About Compressive Sensing and Image Codec
-1. **Image Codec (Encoder & Decoder)**
+-  **Image Codec (Encoder & Decoder)**
    
    Similar to other data compression and feature extraction techniques, the aim of image codecs is to reduce image redundancies, thereby necessitating fewer bits to convey the entire image information, thus conserving storage space while preserving quality.
    
@@ -53,7 +53,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <br> 
    
  
-2. **Compressive Sensing (CS)**
+-  **Compressive Sensing (CS)**
 
    As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
    It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (A/D) processing.
