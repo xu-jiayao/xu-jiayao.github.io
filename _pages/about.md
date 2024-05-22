@@ -191,17 +191,36 @@ overall speedup of 165.18 × in terms of time cost.
 - `ISCAS` [An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements](https://ieeexplore.ieee.org/abstract/document/9937930)
 **Jiayao Xu**, Pham Do Kim Chi, Chen Fu, Jinjia Zhou
 
-<div style="color:orange; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color: #999;
-    padding: 2px;"> </div>
 
-    
-- `ICVIP` [High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
-**Jiayao Xu**, Jirayu Peetakul, Muchen Li, Jinjia Zhou
+
+
+**Improve the Image Quality: Python, Pytorch, OpenCV, MATLAB**
+
+◦ Existing Issues:
+– Higher sampling rates improve quality for high-frequency blocks, with minimal impact on low-frequency
+ones.
+– Adaptive sampling is introduced in existing works to tackle this issue.
+– Computation of sampling rates per block in existing works is image-based, requiring two rounds of
+sampling and reconstruction, leading to high time and hardware costs.
+◦ Our Proposal:
+– Investigating the correlation between the sampling procedure and edge detection calculation, the edge
+detection method is implemented by multiplying a vector with sampled data.
+– Achieving adaptive sampling calculation on the sampled data, saving hardware and time costs without
+requiring additional reconstruction.
+– Integrated without change into any compressive sensing-based codec framework, achieving plug-and-
+play capability.
+– Enhancing existing methods by 0.8-4.27dB under the same sampling rate
+
 
 - `Peer Review` [Plug-and-Play Adaptive Block Compressive Sensing using Edge-Detection on the Compressed Domain]
 **Jiayao Xu**, Yibo Fan, Jinjia Zhou
+
+
+
+**Other works**
+
+- `ICVIP` [High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
+**Jiayao Xu**, Jirayu Peetakul, Muchen Li, Jinjia Zhou
 
 - `CVM, ACCEPT` [JVCSR+: Adaptively Learned Video Compressive Sensing Reconstruction with Joint In-loop Reference Enhancement and Out-loop Super-resolution] 
 Jian Yang, **Jiayao Xu**, Jinjia Zhou
