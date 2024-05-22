@@ -80,6 +80,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    **However, the compression ratio, in terms of bits per pixel (bpp), is still not satisfied.**
   
    This process of sampling and compression, which involves hardware devices, is typically implemented through software simulation. 
+
 <!---   The details of the simulation are as follows:
    
    ([high resolution version of Fig.3](/images/research/sampling.pdf))
