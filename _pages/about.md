@@ -36,7 +36,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    Compression methods utilized in image codecs can be categorized into two main groups: lossy compression and lossless compression.
    Both categories seek to exploit similarities among image blocks to diminish the volume of the original data, thereby enhancing compression ratios.
    
-   In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: 
+   In convolutional codecs, such as HEVC and JPEG, the decoder performs the inverse operations of the encoder, typically requiring less computational power. The specific details related to convolutional codecs are as follows: ( [high resolution version](/images/research/convolutional codec frameworks.pdf))
    
   <center>
     <img style="border-radius: 0.3125em;
@@ -46,7 +46,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure.1 Convolutional codecs framework. [high resolution version](/images/research/convolutional codec frameworks.pdf)
+    padding: 2px;">Figure.1 Convolutional codecs framework.
 </div>
   </center>
 
