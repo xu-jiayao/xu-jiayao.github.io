@@ -46,7 +46,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure.1 Convolutional codecs framework.</div>
+    padding: 2px;">Figure 1. The convolutional codecs framework.</div>
   </center>
 
    
@@ -65,7 +65,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure.1 Convolutional codecs framework.</div>
+    padding: 2px;">Figure 2. The Compressive Sensing framework. </div>
   </center>
    
 
@@ -80,11 +80,50 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure.1 Convolutional codecs framework.</div>
+    padding: 2px;">Figure 3. The sampling and compression process in CS. </div>
   </center>
    
-   However, reconstruction poses an NP-Hard problem, making real-time processing and precise results challenging to attain, thereby becoming a primary bottleneck in CS applications.
-   there are two conditions to guarantee the reconstruction. First is the sparsity of the original signal. As the image signal is tense, the transform matrix is introduced into the framework to sparse the image signal. The other is the incoherence between the transform matrix with the measurement matrix. The relationship among these parameters are as follows:
+   However, reconstruction is an NP-hard problem, making real-time processing and achieving precise results challenging, thus becoming a primary bottleneck in CS applications. 
+   Two conditions are essential to guarantee successful reconstruction. The first is the sparsity of the original signal. Since image signals are dense, a transform matrix is introduced to sparsify the image signal. The second condition is the incoherence between the transform matrix and the measurement matrix. 
+   The reconstruction theory, reconstruction process, and the relationship among parameters used in reconstruction are as follows:
+   ([high resolution version](/images/research/reconstruction problem.pdf))
+
+   <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="/images/research/reconstruction problem.bmp">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure 3. The sampling and compression process in CS. </div>
+  </center>
+
+  ([high resolution version](/images/research/reconstruction process.pdf))
+
+   <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="/images/research/reconstruction process.bmp">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure 3. The sampling and compression process in CS. </div>
+  </center>
+
+  ([high resolution version](/images/research/parameter relation.pdf))
+
+   <center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="/images/research/parameter relation.bmp">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure 3. The sampling and compression process in CS. </div>
+  </center>
 
 
 # 📝 Publications 
