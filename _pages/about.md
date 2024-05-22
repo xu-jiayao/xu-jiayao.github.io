@@ -43,7 +43,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
    As a leading field in representing low-dimensional structured data, Compressive Sensing (CS) emerges as a groundbreaking theory in signal sampling.
    It transcends the constraints of the conventional Nyquist sampling theorem by capitalizing on data sparsity to enable downsampling, thereby reducing hardware demands in analog-to-digital (A/D) processing.
-   <img src="/images/research/convolutional codec frameworks.bmp" >
+   <img src="/images/research/convolutional codec frameworks.pdf" >
    
 
    In CS, sampling entails a straightforward linear projection, while the computational complexity is shifted to the reconstruction phase, akin to the function performed by decoders in traditional image codecs.
