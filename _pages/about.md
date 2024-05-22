@@ -50,10 +50,10 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
    <img src="/images/research/compressive sensing framework.bmp" >
    
 
-   In CS, sampling and compression entail a straightforward linear projection, while the computational complexity is shifted to the reconstruction phase, akin to the function performed by decoders in traditional image codecs. As this process involves the hardware devices, it is implemented by the simulation on the software. The details of the simulation is as follows:
-   <font color = blue> [high resolution version](/images/research/compressive sensing framework.pdf)<\font>
+   In CS, sampling and compression involve straightforward linear projections, shifting the computational complexity to the reconstruction, similar to the role of decoders in convolutional image codecs. This process, which involves hardware devices, is typically implemented through software simulation. The details of the simulation are as follows:
+   [high resolution version](/images/research/sampling.pdf)
    
-   <img src="/images/research/compressive sensing framework.bmp" >
+   <img src="/images/research/sampling.bmp" >
    
    However, reconstruction poses an NP-Hard problem, making real-time processing and precise results challenging to attain, thereby becoming a primary bottleneck in CS applications.
 
