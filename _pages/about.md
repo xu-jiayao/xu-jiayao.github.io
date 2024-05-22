@@ -101,7 +101,7 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 **Work duration**: Sep.2015 – Mar.2017
 
-**Online Time**: December 4th, 2016
+**Release Time**: December 4th, 2016
 
 **Current status**: out of service.
 
