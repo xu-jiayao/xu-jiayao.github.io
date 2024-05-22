@@ -69,7 +69,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     display: inline-block;
     color: #999;
     padding: 2px;">Figure 2. The Compressive Sensing framework. <br> 
-      **It offers cost-effective sampling compared to convolutional codecs but encounters two main challenges**: inadequate compression ratios, measured in bits per pixel (bpp), and difficulties in real-time processing due to the reconstruction process. </div>
+      It offers cost-effective sampling compared to convolutional codecs but encounters two main challenges: inadequate compression ratios, measured in bits per pixel (bpp), and difficulties in real-time processing due to the reconstruction process. </div>
   </center>
    <br> 
 
