@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-#  - title: "Research Intro"
-#    url: "/#-about-compressive-sensing-and-image-codec"
+  - title: "News"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
