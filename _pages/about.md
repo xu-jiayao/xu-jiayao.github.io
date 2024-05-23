@@ -42,7 +42,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
@@ -56,10 +56,10 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2022</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`MMM` [Real-time FPGA Design for OMP Targeting 8K image Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
+[Real-time FPGA Design for OMP Targeting 8K image Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 
 **Jiayao Xu**, Chen Fu, Zhiqiang Zhang, Jinjia Zhou
 
@@ -70,10 +70,10 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2022</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`ISCAS` [An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements](https://ieeexplore.ieee.org/abstract/document/9937930)
+[An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements](https://ieeexplore.ieee.org/abstract/document/9937930)
 
 **Jiayao Xu**, Pham Do Kim Chi, Chen Fu, Jinjia Zhou
 
@@ -83,10 +83,10 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Review</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`Peer Review` [Plug-and-Play Adaptive Block Compressive Sensing using Edge-Detection on the Compressed Domain]
+ [Plug-and-Play Adaptive Block Compressive Sensing using Edge-Detection on the Compressed Domain]
 
 **Jiayao Xu**, Yibo Fan, Jinjia Zhou
 
@@ -96,10 +96,10 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICVIP 2020</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`ICVIP` [High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
+[High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
 
 **Jiayao Xu**, Jirayu Peetakul, Muchen Li, Jinjia Zhou
 
