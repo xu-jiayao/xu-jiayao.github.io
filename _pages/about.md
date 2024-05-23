@@ -75,7 +75,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 /
-[**Project**](https://kepengxu.github.io/projects/pgtformer/) 
+[**Project**](https://xu-jiayao.github.io/projects/MMM/) 
 
 </div>
 </div>
@@ -95,7 +95,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
 /
-[**Project**](https://kepengxu.github.io/projects/pgtformer/) 
+[**Project**](https://xu-jiayao.github.io/projects/ISCAS/) 
 
 </div>
 </div>
@@ -110,7 +110,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 **Mini abstract**: 
 
-[**Project**](https://kepengxu.github.io/projects/pgtformer/) 
+[**Project**](https://xu-jiayao.github.io/projects/CVM/) 
 
 </div>
 </div>
@@ -129,7 +129,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 [**Paper**](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
 /
-[**Project**](https://kepengxu.github.io/projects/pgtformer/) 
+[**Project**](https://xu-jiayao.github.io/projects/ICVIP/) 
 
 </div>
 </div>
