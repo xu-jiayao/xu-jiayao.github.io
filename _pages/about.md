@@ -134,7 +134,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 </div>
 </div>
 
-- `CVM, ACCEPT` [JVCSR+: Adaptively Learned Video Compressive Sensing Reconstruction with Joint In-loop Reference Enhancement and Out-loop Super-resolution] 
+- `CVM, ACCEPT` JVCSR+: Adaptively Learned Video Compressive Sensing Reconstruction with Joint In-loop Reference Enhancement and Out-loop Super-resolution
 Jian Yang, **Jiayao Xu**, Jinjia Zhou
 
 - `DCC` [Zigzag Ordered Walsh Matrix for Compressed Sensing Image Sensor](https://ieeexplore.ieee.org/abstract/document/10125342)
@@ -143,7 +143,7 @@ Jinyao Zhou, **Jiayao Xu**, Jirayu Peetakul, Jinjia Zhou
 - `ICIP` [Dynamic Unilateral Dual Learning for Text-to-Image Synthesis](https://ieeexplore.ieee.org/abstract/document/10223128)
 Zhiqiang Zhang, **Jiayao Xu**, Ryugo Morita, Wenxin Yu, Jinjia Zhou
 
-- `IJCNN, ACCEPT` [High Frequency Feature Distillation Network for Compressive Sensing Reconstruction]
+- `IJCNN, ACCEPT` High Frequency Feature Distillation Network for Compressive Sensing Reconstruction
 Fuma Kimishima, **Jiayao Xu**, Jinjia Zhou
 
 - `MMSP` [Optimizing CABAC architecture with prediction based context model prefetching](https://ieeexplore.ieee.org/abstract/document/9949499)
