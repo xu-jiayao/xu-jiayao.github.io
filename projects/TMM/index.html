@@ -263,15 +263,23 @@ bulmaCarousel.attach('#results-carousel', {
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Multiple complex degradations are coupled in low-quality video faces in the real world. 
-            Therefore, blind video face restoration is a highly challenging ill-posed problem, 
-            requiring not only hallucinating high-fidelity details but also enhancing temporal coherence across diverse pose variations. 
-            Restoring each frame independently in a naive manner inevitably introduces temporal incoherence and artifacts from pose changes and keypoint localization errors. 
-            To address this, we propose the first blind video face restoration approach with a novel parsing-guided temporal-coherent transformer (PGTFormer) without pre-alignment. PGTFormer leverages semantic parsing guidance to select optimal face priors for generating temporally coherent artifact-free results. 
-            Specifically, we pre-train a temporal-spatial vector quantized auto-encoder on high-quality video face datasets to extract expressive context-rich priors. Then, the temporal parse-guided codebook predictor (TPCP) restores faces in different poses based on face parsing context cues without performing face pre-alignment. 
-            This strategy reduces artifacts and mitigates jitter caused by cumulative errors from face pre-alignment. Finally, the temporal fidelity regulator (TFR) enhances fidelity through temporal feature interaction and improves video temporal consistency. 
-            Extensive experiments on face videos show that our method outperforms
-             previous face restoration baselines. The code will be released on https://github.com/kepengxu/PGTFormer .        
+            Compressive Sensing (CS) surpasses the limitations of the sampling theorem by reducing signal dimensions during sampling. 
+            Recent works integrate measurement coding into CS to enhance the compression ratio. 
+            However, these works significantly decrease image quality, and both encoding and decoding become time-consuming. 
+            This article proposes a Compressive Sensing based Image Codec with Partial Pre-calculation (CSCP) to solve these issues. 
+            The CSCP separates the original reconstruction procedure into two parts: reconstructing the frequency domain data and the inverse calculation. 
+            Depending on the feature of the chosen deterministic sensing matrix, the complex reconstruction procedure is reduced to twice matrix-based multiplications, 
+            resulting in a low time cost. 
+            Moreover, we can further optimize the reconstruction process by moving the frequency domain data reconstruction to the encoder, 
+            referred to as the partial pre-calculation process. 
+            Then compressing the sparse data in the frequency domain. 
+            This approach has two main benefits: 1) it reduces the complexity of the decoder, and 
+            2) it results in less degradation in quality compared to existing measurement coding methods. 
+            Additionally, this work proposes the One-Row-Two-Tables strategy for defining Huffman Coding units. 
+            This approach leverages the quantized data distribution to improve compression efficiency while maintaining low complexity. 
+            In the decoder, the sequence of operations includes Huffman decoding, dequantization, and inverse calculation. 
+            Compared to the state-of-the-art, this work decreases 22.61 % bpp with 17.72 % increased quality. 
+            Meanwhile, time speeds up to 649.13× on the encoder, 11.03× on the decoder, and 288.46× in total.     
           </p>
 
           <p>
