@@ -69,7 +69,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 **Jiayao Xu**, Chen Fu, Zhiqiang Zhang, Jinjia Zhou
 
-<font color=darkred>28th International Conference on Multimedia Modeling (MMM)</font>
+<font color=darkred>28th International Conference on Multimedia Modeling (MMM), 2022</font>
 
 **Mini abstract**: 
 
@@ -89,7 +89,9 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 **Jiayao Xu**, Pham Do Kim Chi, Chen Fu, Jinjia Zhou
 
-<font color=darkred>The IEEE International Symposium on Circuits and Systems (ISCAS)</font>
+<font color=darkred>The IEEE International Symposium on Circuits and Systems (ISCAS), 2022</font>
+
+**Mini abstract**: 
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
 /
@@ -106,6 +108,8 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 **Jiayao Xu**, Yibo Fan, Jinjia Zhou
 
+**Mini abstract**: 
+
 [**Project**](https://kepengxu.github.io/projects/pgtformer/) 
 
 </div>
@@ -119,7 +123,9 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 **Jiayao Xu**, Jirayu Peetakul, Muchen Li, Jinjia Zhou
 
-<font color=darkred>International Conference on Video and Image Processing (ICVIP)</font>
+<font color=darkred>International Conference on Video and Image Processing (ICVIP), 2020</font>
+
+**Mini abstract**: 
 
 [**Paper**](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
 /
