@@ -152,11 +152,11 @@ Chen Fu, Heming Sun, **Jiayao Xu**, Zhiqiang Zhang, Jinjia Zhou
 
 **Current status**: out of service.
 
-• Introduction:
+**Introduction**:
 
 Provide on-campus student services such as checking lecture schedules, accessing library book collection information, verifying campus card balances, and processing recharges.
 
-• Responsibility:
+**Responsibility**:
   
 1. Contributed to API design and revised API documentation to enhance comprehension and utilization by the development team.
 
