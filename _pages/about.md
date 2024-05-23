@@ -42,7 +42,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/research/sampling.bmp' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/research/sampling.bmp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 4><u><b>Compressive Sensing Based Image Codec With Partial Pre-Calculation</b></u></font>
@@ -73,7 +73,8 @@ This study relocates partial reconstruction to the encoder upon observing sparse
 
 <font color=darkred>28th International Conference on Multimedia Modeling (MMM), 2022</font>
 
-**Mini abstract**: Due to the limitation of hardware used during sampling, different from the existing works, we adopt a sensing matrix with sparsity character which obtains good quality results. Utilizing the sparsity, we simplified the iter
+**Mini abstract**: 
+Due to hardware constraints in sampling, we initiate our work using a deterministic matrix. We adopt a sparse sensing matrix that can obtain high-quality results. Leveraging sparsity, we simplify calculations in each iteration, substituting division and vector-based multiplications with simpler procedures. This work is implemented on the Xilinx Virtex UltraScale+ FPGA device. To reconstruct a digital signal with 1024 length under 0.25 sampling rate, the proposal method costs 0.818 μs while the state-of-the-art costs 238 μs. Thus, this work speedups the state-of-the-art method 290 times. This work costs 0.026s to reconstruct an 8K gray image, which achieves 30FPS real-time reconstruction.
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 /
@@ -95,6 +96,8 @@ This study relocates partial reconstruction to the encoder upon observing sparse
 
 **Mini abstract**: 
 
+The reconstruction of Compressed Sensing is iteration-based and contains numerous divisions, thereby costing tremendous processing time. In order to eliminate divisions, we adopt a sparse sensing matrix consisting mainly of zero-vectors. After deleting these zero-vectors, an invertible full-rank matrix is obtained. Then the iteration-based reconstruction procedure can be replaced by a matrix multiplication operated in one iteration. Moreover, because the inverse matrix is sparse and deterministic, the multiplication can be simply processed by the shift and add operators. The proposed architecture is verified on the Xilinx Artix-7 FPGA. The result shows that our work accelerates the state-of-the-art method by 65 × and achieves 81.92Gpixels/s reconstruction.
+
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
 /
 [**Project**](https://xu-jiayao.github.io/projects/ISCAS/) 
@@ -111,6 +114,8 @@ This study relocates partial reconstruction to the encoder upon observing sparse
 **Jiayao Xu**, Yibo Fan, Jinjia Zhou
 
 **Mini abstract**: 
+
+
 
 [**Project**](https://xu-jiayao.github.io/projects/CVM/) 
 
