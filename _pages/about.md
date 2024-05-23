@@ -42,7 +42,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/research/sampling.bmp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/research/sampling.bmp' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 4><u><b>Compressive Sensing Based Image Codec With Partial Pre-Calculation</b></u></font>
@@ -53,7 +53,9 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 (**IF = 8.182**, Top Journal in Image Processing)
 
-**Mini abstract**: This study relocates partial reconstruction to the encoder upon observing sparser data post-partial reconstruction. This optimization reduces decoder processing time and mitigates degradation from subsequent quantization by capitalizing on sparsity. Leveraging the deterministic sensing matrix's sparsity simplifies complex partial reconstruction to matrix-based multiplications, significantly reducing processing time. This approach parallels common intra-prediction but with reduced complexity. Consequently, this approach achieves superior quality results with reduced processing time and storage requirements.
+**Mini abstract**: 
+
+This study relocates partial reconstruction to the encoder upon observing sparser data post-partial reconstruction. This optimization reduces decoder processing time and mitigates degradation from subsequent quantization by capitalizing on sparsity. Leveraging the deterministic sensing matrix's sparsity simplifies complex partial reconstruction to matrix-based multiplications, significantly reducing processing time. This approach parallels common intra-prediction but with reduced complexity. Consequently, this approach achieves superior quality results with reduced processing time and storage requirements.
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10297548)
 /
@@ -71,7 +73,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 <font color=darkred>28th International Conference on Multimedia Modeling (MMM), 2022</font>
 
-**Mini abstract**: 
+**Mini abstract**: Due to the limitation of hardware used during sampling, different from the existing works, we adopt a sensing matrix with sparsity character which obtains good quality results. Utilizing the sparsity, we simplified the iter
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 /
