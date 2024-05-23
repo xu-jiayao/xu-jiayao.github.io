@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🙋‍♀️ Profile 
-I obtained my Ph.D. degree from Hosei University in March 2024 and my M.S. degree in September 2020. 
+I obtained my Ph.D. degree from Hosei University in March 2024 and my M.S. degree in September 2020, under the supervision of [Prof. Jinjia Zhou](https://www.zhou-lab.info/jinjia-zhou).
 
 My **research interest** lies in _**Image Codec design**_ based on _**Compressive Sensing**_, which encompasses _**Hardware Implementation**_ and _**Deep Learning**_. 
 
@@ -45,7 +45,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Compressive Sensing Based Image Codec With Partial Pre-Calculation]
+<u>**Compressive Sensing Based Image Codec With Partial Pre-Calculation**</u>
 
 **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
 
