@@ -69,6 +69,8 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 **Jiayao Xu**, Chen Fu, Zhiqiang Zhang, Jinjia Zhou
 
+<font color=darkred>28th International Conference on Multimedia Modeling (MMM)</font>
+
 **Mini abstract**: 
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
@@ -86,6 +88,8 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <font size = 4><u><b>An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements</b></u></font>
 
 **Jiayao Xu**, Pham Do Kim Chi, Chen Fu, Jinjia Zhou
+
+<font color=darkred>The IEEE International Symposium on Circuits and Systems (ISCAS)</font>
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
 /
@@ -114,6 +118,8 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <font size = 4><u><b>High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing</b></u></font>
 
 **Jiayao Xu**, Jirayu Peetakul, Muchen Li, Jinjia Zhou
+
+<font color=darkred>International Conference on Video and Image Processing (ICVIP)</font>
 
 [**Paper**](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
 /
