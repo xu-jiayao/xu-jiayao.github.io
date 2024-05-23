@@ -28,6 +28,17 @@ I possess a strong ability for **self-directed learning** and have **independent
 
 I am currently actively seeking post-doctoral or researcher opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
 
+# 🔥 News
+- *2024.03*: 🎉 One paper is accepted by **IJCNN**!
+- *2024.01*: 🎉 One paper is accepted by **CVM journal**!
+- *2023.10*: 🎉 One paper is accepted by **TMM**!
+- *2023.06*: 🎉 One paper is accepted by **ICIP**!
+- *2023.02*: 🎉 One paper is accepted by **DCC**!
+- *2022.09*, 🎉 Initiate recurring seminars with Fudan University and Zhejiang University.
+- *2022.08*, 🎉 Keynote speech on Compressive Sensing at Osaka University.
+- *2022.06*, 🎉 One paper is accepted by **MMM**!
+- *2022.05*, 🎉 One paper is accepted by **ISCAS**!
+
 
 # 📝 Publications 
 
