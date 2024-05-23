@@ -49,7 +49,9 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
 
-`IEEE Transaction on Multimedia` (IF = 8.182, Top journal on Image Processing)
+`<b>IEEE Transaction on Multimedia</b>` 
+
+(IF = 8.182, Top journal on Image Processing)
 
 [**Project**](https://kepengxu.github.io/projects/pgtformer/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
