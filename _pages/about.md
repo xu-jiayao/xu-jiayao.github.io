@@ -53,7 +53,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 (**IF = 8.182**, Top Journal in Image Processing)
 
-**Mini abstract**: 
+**Mini abstract**: This study relocates partial reconstruction to the encoder upon observing sparser data post-partial reconstruction. This optimization reduces decoder processing time and mitigates degradation from subsequent quantization by capitalizing on sparsity. Leveraging the deterministic sensing matrix's sparsity simplifies complex partial reconstruction to matrix-based multiplications, significantly reducing processing time. This approach parallels common intra-prediction but with reduced complexity. Consequently, this approach achieves superior quality results with reduced processing time and storage requirements.
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10297548)
 /
