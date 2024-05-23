@@ -55,7 +55,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 **Mini abstract**: 
 
-This study relocates partial reconstruction to the encoder upon observing sparser data post-partial reconstruction. This optimization reduces decoder processing time and mitigates degradation from subsequent quantization by capitalizing on sparsity. Leveraging the deterministic sensing matrix's sparsity simplifies complex partial reconstruction to matrix-based multiplications, significantly reducing processing time. This approach parallels common intra-prediction but with reduced complexity. Consequently, this approach achieves superior quality results with reduced processing time and storage requirements.
+This study relocates partial reconstruction to the encoder upon observing sparser data post-partial reconstruction. This optimization reduces decoder processing time and mitigates degradation from subsequent quantization by capitalizing on sparsity. Leveraging the deterministic sensing matrix's sparsity simplifies complex partial reconstruction to matrix-based multiplications, significantly reducing processing time. This approach parallels common intra-prediction but with reduced complexity. Consequently, compared to the state-of-the-art, this work decreases 22.61 % bpp with 17.72 % increased quality. Meanwhile, time speeds up to 649.13× on the encoder, 11.03× on the decoder, and 288.46× in total.
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/10297548)
 /
@@ -74,7 +74,8 @@ This study relocates partial reconstruction to the encoder upon observing sparse
 <font color=darkred>28th International Conference on Multimedia Modeling (MMM), 2022</font>
 
 **Mini abstract**: 
-Due to hardware constraints in sampling, we initiate our work using a deterministic matrix. We adopt a sparse sensing matrix that can obtain high-quality results. Leveraging sparsity, we simplify calculations in each iteration, substituting division and vector-based multiplications with simpler procedures. This work is implemented on the Xilinx Virtex UltraScale+ FPGA device. To reconstruct a digital signal with 1024 length under 0.25 sampling rate, the proposal method costs 0.818 μs while the state-of-the-art costs 238 μs. Thus, this work speedups the state-of-the-art method 290 times. This work costs 0.026s to reconstruct an 8K gray image, which achieves 30FPS real-time reconstruction.
+
+Due to hardware limitations in sampling, we begin our work with a deterministic matrix. We employ a sparse sensing matrix capable of achieving high-quality results. Utilizing sparsity, we streamline calculations in each iteration, replacing complex operations with simpler procedures. This implementation is carried out on the Xilinx Virtex UltraScale+ FPGA device. Experimental results demonstrate a speedup of 290 times compared to the state-of-the-art method, requiring only 0.026 seconds to reconstruct an 8K grayscale image, achieving real-time reconstruction at 30 FPS.
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 /
@@ -96,7 +97,7 @@ Due to hardware constraints in sampling, we initiate our work using a determinis
 
 **Mini abstract**: 
 
-The reconstruction of Compressed Sensing is iteration-based and contains numerous divisions, thereby costing tremendous processing time. In order to eliminate divisions, we adopt a sparse sensing matrix consisting mainly of zero-vectors. After deleting these zero-vectors, an invertible full-rank matrix is obtained. Then the iteration-based reconstruction procedure can be replaced by a matrix multiplication operated in one iteration. Moreover, because the inverse matrix is sparse and deterministic, the multiplication can be simply processed by the shift and add operators. The proposed architecture is verified on the Xilinx Artix-7 FPGA. The result shows that our work accelerates the state-of-the-art method by 65 × and achieves 81.92Gpixels/s reconstruction.
+The reconstruction of Compressed Sensing is iteration-based and contains numerous divisions, thereby costing tremendous processing time. In order to eliminate divisions, we adopt a sparse sensing matrix consisting mainly of zero-vectors. After removing zero-vectors, an invertible full-rank matrix is obtained. This allows the iteration-based reconstruction procedure to be replaced by a single matrix multiplication. The proposed architecture is verified on the Xilinx Artix-7 FPGA. The result shows that our work accelerates the state-of-the-art method by 65 × and achieves 81.92Gpixels/s reconstruction.
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
 /
@@ -115,7 +116,7 @@ The reconstruction of Compressed Sensing is iteration-based and contains numerou
 
 **Mini abstract**: 
 
-
+Current adaptive sensing methods impose higher hardware and time costs, needing two sensors and dual reconstructions. To address this, this paper integrates edge detection on sampled data for adaptive sampling. The edge detection outcome dictates the sampling rate for each block. Additionally, a strategy is proposed to regulate the overall sampling rate across the entire image. This adaptive method, processed on the sampled data, requires only a single sensor and reconstruction, thus compatible with any sampling matrix, and reduces time and hardware costs. Experimental comparisons against traditional and learning-based techniques consistently reveal superior results.
 
 [**Project**](https://xu-jiayao.github.io/projects/CVM/) 
 
@@ -133,6 +134,8 @@ The reconstruction of Compressed Sensing is iteration-based and contains numerou
 <font color=darkred>International Conference on Video and Image Processing (ICVIP), 2020</font>
 
 **Mini abstract**: 
+
+Compressed sensing reduces the complexity of signal acquisition but increases the complexity of signal reconstruction. Block-based intra-prediction algorithms have become popular for enhancing compression ratios. Although parallel processing holds promise for reducing reconstruction time, block interdependency poses a challenge. This study introduces a reconstruction algorithm employing Zigzag ordering-based parallelism to address these issues. Experimental results show that the proposed algorithm accelerates the baseline algorithm by 3.26 to 7.13 times.
 
 [**Paper**](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
 /
