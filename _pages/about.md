@@ -45,11 +45,13 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size = 3><b><u>Compressive Sensing Based Image Codec With Partial Pre-Calculation</u> </b> </font>
+<font size = 4><u>Compressive Sensing Based Image Codec With Partial Pre-Calculation</u></font>
+<br>
 
 **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
 
-<font color = #CC3300>IEEE Transaction on Multimedia</font>
+<font color=#CC3300> IEEE Transaction on Multimedia</font>
+<font color=#008000>我是绿色</font>
 
 (**IF = 8.182**, Top Journal on Image Processing)
 
