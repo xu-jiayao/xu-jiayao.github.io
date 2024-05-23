@@ -62,14 +62,18 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2022</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2022</div><img src='images/research/sampling.bmp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-time FPGA Design for OMP Targeting 8K image Reconstruction](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
+<font size = 4><u><b>Real-time FPGA Design for OMP Targeting 8K image Reconstruction</b></u></font>
 
 **Jiayao Xu**, Chen Fu, Zhiqiang Zhang, Jinjia Zhou
 
-[**Project**](https://kepengxu.github.io/projects/pgtformer/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Mini abstract**: 
+
+[**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
+/
+[**Project**](https://kepengxu.github.io/projects/pgtformer/) 
 
 </div>
 </div>
@@ -79,11 +83,13 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2022</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements](https://ieeexplore.ieee.org/abstract/document/9937930)
+<font size = 4><u><b>An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements</b></u></font>
 
 **Jiayao Xu**, Pham Do Kim Chi, Chen Fu, Jinjia Zhou
 
-[**Project**](https://kepengxu.github.io/projects/pgtformer/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
+/
+[**Project**](https://kepengxu.github.io/projects/pgtformer/) 
 
 </div>
 </div>
@@ -92,11 +98,11 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Review</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [Plug-and-Play Adaptive Block Compressive Sensing using Edge-Detection on the Compressed Domain]
+<font size = 4><u><b>Plug-and-Play Adaptive Block Compressive Sensing using Edge-Detection on the Compressed Domain</b></u></font>
 
 **Jiayao Xu**, Yibo Fan, Jinjia Zhou
 
-[**Project**](https://kepengxu.github.io/projects/pgtformer/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://kepengxu.github.io/projects/pgtformer/) 
 
 </div>
 </div>
@@ -105,11 +111,13 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICVIP 2020</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
+<font size = 4><u><b>High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing</b></u></font>
 
 **Jiayao Xu**, Jirayu Peetakul, Muchen Li, Jinjia Zhou
 
-[**Project**](https://kepengxu.github.io/projects/pgtformer/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
+/
+[**Project**](https://kepengxu.github.io/projects/pgtformer/) 
 
 </div>
 </div>
