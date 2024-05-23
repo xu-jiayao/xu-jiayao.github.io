@@ -28,7 +28,7 @@ I possess a strong ability for **self-directed learning** and have **independent
 
 I am currently actively seeking post-doctoral or researcher opportunities and aspire to join a growth-oriented team where I can make meaningful contributions to advancement and development. 
 
-# 🎥 About Compressive Sensing and Image Codec
+<!--- # 🎥 About Compressive Sensing and Image Codec
 -  **Image Codec (Encoder & Decoder)**
    
    Similar to other data compression and feature extraction techniques, the aim of image codecs is to reduce image redundancies, thereby necessitating fewer bits to convey the entire image information, thus conserving storage space while preserving quality.
@@ -75,7 +75,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
     color: #999;
     padding: 2px;">Figure 2. The Compressive Sensing framework.</div>
   </center>
-   <br> 
+   <br>  -->
    
 <!---  <br>  It offers cost-effective sampling compared to convolutional codecs but encounters two main challenges: inadequate compression ratios, measured in bits per pixel (bpp), and difficulties in real-time processing due to the reconstruction process.  -->
 
