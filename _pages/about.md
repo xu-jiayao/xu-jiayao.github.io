@@ -45,7 +45,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
+Compressive Sensing Based Image Codec With Partial Pre-Calculation
 
 **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
 
@@ -53,7 +53,9 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 (**IF = 8.182**, Top Journal on Image Processing)
 
-[**Project**](https://kepengxu.github.io/projects/pgtformer/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10297548)
+/
+[**Project**](https://kepengxu.github.io/projects/pgtformer/) 
 
 </div>
 </div>
