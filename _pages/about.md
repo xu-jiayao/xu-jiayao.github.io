@@ -45,9 +45,11 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`TMM` [Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
+[Compressive Sensing Based Image Codec With Partial Pre-Calculation](https://ieeexplore.ieee.org/abstract/document/10297548)
 
 **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
+
+**IEEE Transaction on Multimedia** (TMM, IF = 8.182, Top journal on Image Processing field)
 
 [**Project**](https://kepengxu.github.io/projects/pgtformer/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
