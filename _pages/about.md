@@ -51,7 +51,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 <font color=darkred> IEEE Transaction on Multimedia</font>
 
-(**IF = 8.182**, Top Journal on Image Processing)
+(**IF = 8.182**, Top Journal in Image Processing)
 
 **Mini abstract**: 
 
