@@ -53,7 +53,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 (**IF = 8.182**, Top Journal in Image Processing)
 
-**Mini abstract**: 
+**Key Idea**: 
 
 This study relocates partial reconstruction to the encoder upon observing sparser data post-partial reconstruction. This optimization reduces decoder processing time and mitigates degradation from subsequent quantization by capitalizing on sparsity. Leveraging the deterministic sensing matrix's sparsity simplifies complex partial reconstruction to matrix-based multiplications, significantly reducing processing time. This approach parallels common intra-prediction but with reduced complexity. Consequently, compared to the state-of-the-art, this work decreases 22.61 % bpp with 17.72 % increased quality. Meanwhile, time speeds up to 649.13× on the encoder, 11.03× on the decoder, and 288.46× in total.
 
@@ -198,10 +198,10 @@ Provide on-campus student services such as checking lecture schedules, accessing
 
 4. Orchestrated the implementation of the network layer, encapsulating data packets in JSON format. Collaborated closely with the backend team to conduct comprehensive testing of the network layer, ensuring seamless communication with backend services and making necessary adjustments to meet project requirements.
 
-
-<img src="/images/iswust1.jpg" width="300" >
+<center>
+<img src="/images/iswust1.jpg" width="300" >  &nbsp;&nbsp;&nbsp;
 <img src="/images/iswust2.png" width="300" >
-
+</center>
 
 
 # 📖 Educations
