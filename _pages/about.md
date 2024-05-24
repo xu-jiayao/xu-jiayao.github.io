@@ -50,7 +50,8 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 **Jiayao Xu**, Jian Yang, Fuma Kimishima, Ittetsu Taniguchi, Jinjia Zhou
 
 <font color=darkred> IEEE Transaction on Multimedia, 2023</font>
-<br>
+
+
 <font color=darkred> (<b>IF = 8.182</b>, Top Journal in Image Processing) </font>
 
 **Key Idea**: 
