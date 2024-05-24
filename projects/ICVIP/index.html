@@ -134,18 +134,16 @@
           </div>
           <div class="is-size-5 publication-authors">
             <span class="author-block">
-              <a target="_blank" rel="noopener noreferrer" href="https://https://xu-jiayao.github.io/">Jiayao Xu</a><sup> 1</sup>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+              <a target="_blank" rel="noopener noreferrer" href="https://xu-jiayao.github.io/">Jiayao Xu</a>;
+              </span>
             <span class="author-block">
-              <a target="_blank" rel="noopener noreferrer" href="">Jian Yang </a><sup>1</sup>&nbsp;&nbsp;&nbsp;&nbsp;
+              <a target="_blank" rel="noopener noreferrer" href="">Jirayu Peetakul</a>;
             </span>
             <span class="author-block">
-              <a target="_blank" rel="noopener noreferrer" href="">Fuma Kimishima </a><sup>1</sup>
+              <a target="_blank" rel="noopener noreferrer" href="">Muchen Li</a>;
             </span>
             <span class="author-block">
-              <a target="_blank" rel="noopener noreferrer" href="">Ittetsu Taniguchi </a><sup>2</sup>
-            </span>
-            <span class="author-block">
-              <a target="_blank" rel="noopener noreferrer" href="https://www.zhou-lab.info/jinjia-zhou">Jinjia Zhou </a><sup>† 1</sup>
+              <a target="_blank" rel="noopener noreferrer" href="https://www.zhou-lab.info/jinjia-zhou">Jinjia Zhou</a><sup>† 1</sup>
             </span>
           </div>
 
@@ -157,17 +155,14 @@
             <span class="author-block"><sup>1</sup>Hosei University</span>
           </div>
           <div class="is-size-5 publication-authors">
-            <span class="author-block"><sup>2</sup>Osaka University</span>
-          </div>
-          <div class="is-size-5 publication-authors">
-            <span class="author-block", style="color:#346dc2">TMM 2023</span>
+            <span class="author-block", style="color:#346dc2">ICVIP 2020</span>
           </div>
 
           <div class="column has-text-centered">
             <div class="publication-links">
               <!-- PDF Link. -->
               <span class="link-block">
-                <a target="_blank" rel="noopener noreferrer" href="https://ieeexplore.ieee.org/abstract/document/10297548"
+                <a target="_blank" rel="noopener noreferrer" href="https://dl.acm.org/doi/abs/10.1145/3447450.3447489"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fas fa-file-pdf"></i>
@@ -274,7 +269,7 @@
 
         <div class="content has-text-justified">
           <p>
-           This work was supported by JSPS KAKENHI Grant Number JP22K12101. 
+           This work is supported by JST, PRESTO Grant Number JPMJPR1757 Japan.
           </p>
         </div>
       </div>
@@ -287,16 +282,23 @@
 <section class="section" id="BibTeX">
   <div class="container is-widescreen content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@ARTICLE{10297548,
-  author={Xu, Jiayao and Yang, Jian and Kimishima, Fuma and Taniguchi, Ittetsu and Zhou, Jinjia},
-  journal={IEEE Transactions on Multimedia}, 
-  title={Compressive Sensing Based Image Codec With Partial Pre-Calculation}, 
-  year={2024},
-  volume={26},
-  number={},
-  pages={4871-4883},
-  keywords={Image coding;Image reconstruction;Decoding;Compressed sensing;Codecs;Quantization (signal);Reconstruction algorithms;Compressive sensing;image compression;codec design;reconstruction algorithm},
-  doi={10.1109/TMM.2023.3327534}}
+    <pre><code>@inproceedings{10.1145/3447450.3447489,
+author = {Xu, Jiayao and Peetakul, Jirayu and Li, Muchen and Zhou, Jinjia},
+title = {High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing},
+year = {2021},
+isbn = {9781450389075},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3447450.3447489},
+doi = {10.1145/3447450.3447489},
+abstract = {Compressed sensing (CS), as a signal processing technique, is often used to acquire and reconstruct a sparse signal. It can decrease the difficulty of acquiring signal while increase the difficulty of reconstructing the signal. Recently, block-based intra-prediction algorithms are widely used to further increase the compression ratio of images by using the information of neighboring blocks to predict the current block. However, it is hard to increase the speed by parallel processing due to the dependency among the blocks. Meanwhile, the reconstruction of compressed sensing images is time consuming. A reconstruction algorithm using Zigzag ordering-based parallelism is proposed in this paper to solve these problems. Besides, based on the feature of the chosen sensing matrix, a new method with higher efficiency for choosing the first candidate list in the reconstruction procedure was presented in this paper. The experimental results demonstrated that the proposed algorithm speedups the baseline algorithm for 3.26 to 7.13 times. And the quality of the reconstructed images is not changed. Thus, it is a promising solution for fast reconstruction of compressed images.},
+booktitle = {Proceedings of the 2020 4th International Conference on Video and Image Processing},
+pages = {247–255},
+numpages = {9},
+keywords = {Zigzag Scanning, Parallel Reconstruction, Block Compressed Sensing},
+location = {Xi'an, China},
+series = {ICVIP '20}
+}
     </code></pre>
   </div>
 </section>
@@ -305,13 +307,6 @@
 <footer class="footer">
   <div class="container">
     <div class="content has-text-centered">
-<!--       <a target="_blank" rel="noopener noreferrer" class="icon-link"
-         href="">
-        <i class="fas fa-file-pdf"></i>
-      </a>
-      <a target="_blank" rel="noopener noreferrer" class="icon-link" href="https://github.com/kepengxu/PGTFormer" class="external-link" disabled>
-        <i class="fab fa-github"></i>
-      </a> -->
     </div>
     <div class="columns is-centered">
       <div class="column is-8">
