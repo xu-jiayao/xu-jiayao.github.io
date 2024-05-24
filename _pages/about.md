@@ -88,7 +88,7 @@ We utilize the sparsity of the chosen sensing matrix to streamline calculations 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2022</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2022</div><img src='images/projects/ISCAS_methods.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 4><u><b>An 81.92Gpixels/s Fast Reconstruction of Images from Compressively Sensed Measurements</b></u></font>
@@ -109,7 +109,7 @@ We employ a sparse sensing matrix composed mainly of zero-vectors, resulting in 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Review</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Peer Review</div><img src='images/projects/CVM_methods.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 4><u><b>Plug-and-Play Adaptive Block Compressive Sensing using Edge-Detection on the Compressed Domain</b></u></font>
@@ -127,7 +127,7 @@ We recognize the correlation between edge detection and Compressive Sensing samp
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICVIP 2020</div><img src='images/sampling.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICVIP 2020</div><img src='images/projects/ICVIP_methods.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 4><u><b>High-speed Compressed Sensing Reconstruction using Zigzag Ordering based Parallel Processing</b></u></font>
