@@ -65,7 +65,7 @@ Break the current codec framework and analyze the data characteristics within ea
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2022</div><img src='images/research/sampling.bmp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MMM 2022</div><img src='images/projects/MMM_methods.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 4><u><b>Real-time FPGA Design for OMP Targeting 8K image Reconstruction</b></u></font>
