@@ -42,7 +42,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/research/sampling.bmp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/projects/methods.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <font size = 4><u><b>Compressive Sensing Based Image Codec With Partial Pre-Calculation</b></u></font>
