@@ -193,34 +193,15 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            This study relocates partial reconstruction to the encoder upon observing sparser data post-partial reconstruction. 
-            This optimization reduces decoder processing time and mitigates degradation from subsequent quantization by capitalizing on sparsity. 
+            Compressed sensing reduces the complexity of signal acquisition but increases the complexity of signal 
+            reconstruction. 
+            Block-based intra-prediction algorithms have become popular for enhancing compression ratios. 
+            Although parallel processing holds promise for reducing reconstruction time, 
+            block interdependency poses a challenge. 
             <br><br>
-            Leveraging the deterministic sensing matrix’s sparsity simplifies complex partial reconstruction to matrix-based multiplications, significantly reducing processing time. 
-            This approach parallels common intra-prediction but with reduced complexity.
-            <br><br>
-            Consequently, compared to the state-of-the-art, this work decreases 22.61 % bpp with 17.72 % increased quality. 
-            Meanwhile, time speeds up to 649.13× on the encoder, 11.03× on the decoder, and 288.46× in total.
-
-            
-<!--             Compressive Sensing (CS) surpasses the limitations of the sampling theorem by reducing signal dimensions during sampling. 
-            Recent works integrate measurement coding into CS to enhance the compression ratio. 
-            However, these works significantly decrease image quality, and both encoding and decoding become time-consuming. 
-            This article proposes a Compressive Sensing based Image Codec with Partial Pre-calculation (CSCP) to solve these issues. 
-            <br>
-            The CSCP separates the original reconstruction procedure into two parts: reconstructing the frequency domain data and the inverse calculation. 
-            Depending on the feature of the chosen deterministic sensing matrix, the complex reconstruction procedure is reduced to twice matrix-based multiplications, 
-            resulting in a low time cost. 
-            Moreover, we can further optimize the reconstruction process by moving the frequency domain data reconstruction to the encoder, 
-            referred to as the partial pre-calculation process. 
-            Then compressing the sparse data in the frequency domain. 
-            This approach has two main benefits: 1) it reduces the complexity of the decoder, and 
-            2) it results in less degradation in quality compared to existing measurement coding methods. 
-            Additionally, this work proposes the One-Row-Two-Tables strategy for defining Huffman Coding units. 
-            This approach leverages the quantized data distribution to improve compression efficiency while maintaining low complexity. 
-            In the decoder, the sequence of operations includes Huffman decoding, dequantization, and inverse calculation. 
-            Compared to the state-of-the-art, this work decreases 22.61 % bpp with 17.72 % increased quality. 
-            Meanwhile, time speeds up to 649.13× on the encoder, 11.03× on the decoder, and 288.46× in total.      -->
+            This study introduces a reconstruction algorithm employing Zigzag ordering-based parallelism to address 
+            these issues. 
+            Experimental results show that the proposed algorithm accelerates the baseline algorithm by 3.26 to 7.13 times
           </p>
 
           <p>
