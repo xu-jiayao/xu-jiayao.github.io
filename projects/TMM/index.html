@@ -193,7 +193,15 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Compressive Sensing (CS) surpasses the limitations of the sampling theorem by reducing signal dimensions during sampling. 
+            This study relocates partial reconstruction to the encoder upon observing sparser data post-partial reconstruction. 
+            This optimization reduces decoder processing time and mitigates degradation from subsequent quantization by capitalizing on sparsity. 
+            Leveraging the deterministic sensing matrix’s sparsity simplifies complex partial reconstruction to matrix-based multiplications, significantly reducing processing time. 
+            This approach parallels common intra-prediction but with reduced complexity.
+            Consequently, compared to the state-of-the-art, this work decreases 22.61 % bpp with 17.72 % increased quality. 
+            Meanwhile, time speeds up to 649.13× on the encoder, 11.03× on the decoder, and 288.46× in total.
+
+            
+<!--             Compressive Sensing (CS) surpasses the limitations of the sampling theorem by reducing signal dimensions during sampling. 
             Recent works integrate measurement coding into CS to enhance the compression ratio. 
             However, these works significantly decrease image quality, and both encoding and decoding become time-consuming. 
             This article proposes a Compressive Sensing based Image Codec with Partial Pre-calculation (CSCP) to solve these issues. 
@@ -210,7 +218,7 @@
             This approach leverages the quantized data distribution to improve compression efficiency while maintaining low complexity. 
             In the decoder, the sequence of operations includes Huffman decoding, dequantization, and inverse calculation. 
             Compared to the state-of-the-art, this work decreases 22.61 % bpp with 17.72 % increased quality. 
-            Meanwhile, time speeds up to 649.13× on the encoder, 11.03× on the decoder, and 288.46× in total.     
+            Meanwhile, time speeds up to 649.13× on the encoder, 11.03× on the decoder, and 288.46× in total.      -->
           </p>
 
           <p>
