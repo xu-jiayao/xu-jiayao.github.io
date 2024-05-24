@@ -202,10 +202,10 @@ Provide on-campus student services such as checking lecture schedules, accessing
 
 4. Orchestrated the implementation of the network layer, encapsulating data packets in JSON format. Collaborated closely with the backend team to conduct comprehensive testing of the network layer, ensuring seamless communication with backend services and making necessary adjustments to meet project requirements.
 
-<center>
+<!--- <center>
 <img src="/images/iswust1.jpg" width="300" >  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="/images/iswust2.png" width="300" >
-</center>
+</center> -->
 
 
 # 📖 Educations
