@@ -31,6 +31,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 # 🔥 News
 - *2024.03*: 🎉 One paper is accepted by **IJCNN oral** 2024!
 - *2024.01*: 🎉 One paper is accepted by **CVM journal**!
+- *2023.10*, 🎉 Keynote speech on Compressive Sensing at Institut National des Sciences Appliquées de Rennes, INSA de Rennes.
 - *2023.10*: 🎉 One paper is accepted by **TMM**!
 - *2023.06*: 🎉 One paper is accepted by **ICIP oral** 2023!
 - *2023.02*: 🎉 One paper is accepted by **DCC poster** 2023!
