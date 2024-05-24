@@ -76,7 +76,8 @@ Break the current codec framework and analyze the data characteristics within ea
 
 **Key Idea**: 
 
-Due to hardware limitations in sampling, we begin our work with a deterministic matrix. We employ a sparse sensing matrix capable of achieving high-quality results. Utilizing sparsity, we streamline calculations in each iteration, replacing complex operations with simpler procedures. This implementation is carried out on the Xilinx Virtex UltraScale+ FPGA device. Experimental results demonstrate a speedup of 290 times compared to the state-of-the-art method, requiring only 0.026 seconds to reconstruct an 8K grayscale image, achieving real-time reconstruction at 30 FPS.
+Due to hardware limitations in sampling, we begin our work with a deterministic matrix. 
+We utilize the sparsity of the chosen sensing matrix to streamline calculations in each iteration of reconstruction.
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 /
@@ -98,7 +99,7 @@ Due to hardware limitations in sampling, we begin our work with a deterministic 
 
 **Key Idea**: 
 
-The reconstruction of Compressed Sensing is iteration-based and contains numerous divisions, thereby costing tremendous processing time. In order to eliminate divisions, we adopt a sparse sensing matrix consisting mainly of zero-vectors. After removing zero-vectors, an invertible full-rank matrix is obtained. This allows the iteration-based reconstruction procedure to be replaced by a single matrix multiplication. The proposed architecture is verified on the Xilinx Artix-7 FPGA. The result shows that our work accelerates the state-of-the-art method by 65 × and achieves 81.92Gpixels/s reconstruction.
+We employ a sparse sensing matrix composed mainly of zero-vectors, resulting in an invertible full-rank matrix after removing these vectors, enabling the replacement of the iteration-based reconstruction procedure with a single matrix multiplication.
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
 /
@@ -117,7 +118,8 @@ The reconstruction of Compressed Sensing is iteration-based and contains numerou
 
 **Key Idea**: 
 
-Current adaptive sensing methods impose higher hardware and time costs, needing two sensors and dual reconstructions. To address this, this paper integrates edge detection on sampled data for adaptive sampling. The edge detection outcome dictates the sampling rate for each block. Additionally, a strategy is proposed to regulate the overall sampling rate across the entire image. This adaptive method, processed on the sampled data, requires only a single sensor and reconstruction, thus compatible with any sampling matrix, and reduces time and hardware costs. Experimental comparisons against traditional and learning-based techniques consistently reveal superior results.
+We recognize the correlation between edge detection and Compressive Sensing sampling, proposing an adaptive method that directly processes sampled data, thereby cutting time and hardware costs.
+
 
 [**Project**](https://xu-jiayao.github.io/projects/CVM/) 
 
@@ -136,7 +138,8 @@ Current adaptive sensing methods impose higher hardware and time costs, needing 
 
 **Key Idea**: 
 
-Compressed sensing reduces the complexity of signal acquisition but increases the complexity of signal reconstruction. Block-based intra-prediction algorithms have become popular for enhancing compression ratios. Although parallel processing holds promise for reducing reconstruction time, block interdependency poses a challenge. This study introduces a reconstruction algorithm employing Zigzag ordering-based parallelism to address these issues. Experimental results show that the proposed algorithm accelerates the baseline algorithm by 3.26 to 7.13 times.
+We implement Zigzag ordering-based parallelism in the reconstruction process to ensure efficient calculations between blocks during parallel reconstruction.
+
 
 [**Paper**](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
 /
