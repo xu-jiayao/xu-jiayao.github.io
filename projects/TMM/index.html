@@ -240,10 +240,16 @@
     <h2 class="title is-3">Motivation</h2>
     <div class="columns is-centered has-text-centered">
       <div class="column is-full">
-        <image src="./static/image/ijcaiimage.png" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
+        <image src="./static/image/projects/TMM/figure1_with proposal_(v1).png" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
         <div class="content has-text-justified">
           <p>
-            <b>Top:</b> The architecture of PGTformer. <br>
+            <center><b>Figure 1.</b>Different codec architectures comparing with our proposal. The $^*$ represents merit, and the $^+$ represents demerit.</center>
+            <ul>
+              <li>The PIC (1) requires a higher frequency than the original signal during the Analog-to-Digital conversion, resulting in increased hardware costs.</li>
+              <li>The CSICS (2) reduces hardware requirements during sampling but suffers from low compression ratios and time-consuming reconstruction.</li>
+              <li>The CSMC (3) enhances compression ratios but sacrifices image quality and significantly increases encoding and decoding times.</li>
+              <li>Our proposed framework (4) to overcome the above issues.</li>
+            </ul>
           </p>
         </div>
       </div>
@@ -257,10 +263,14 @@
     <h2 class="title is-3">Methods</h2>
     <div class="columns is-centered has-text-centered">
       <div class="column is-full">
-        <image src="./static/image/ijcaiimage.png" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
+        <image src="./static/image/projects/TMM_methods.PNG" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
         <div class="content has-text-justified">
           <p>
-            <b>Top:</b> The architecture of PGTformer. <br>
+            integrates quantization and Huffman Coding in the frequency domain after partial pre-calculation. 
+                By leveraging sparsity in the frequency domain, image quality degradation due to quantization is minimized. 
+                Moving partial pre-calculation from the reconstruction process to the encoder significantly reduces decoding time. 
+                Furthermore, simplifying partial pre-calculation to a single matrix multiplication, facilitated by the chosen measurement matrix, further reduces time costs. 
+                In summary, our proposed codec not only significantly reduces decoding time but also improves compression ratios.
           </p>
         </div>
       </div>
