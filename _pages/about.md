@@ -81,7 +81,7 @@ Break the current codec framework and analyze the data characteristics within ea
 Due to hardware limitations in sampling, we begin our work with a deterministic matrix. 
 We utilize the sparsity of the chosen sensing matrix to streamline calculations in each iteration of reconstruction. 
 
-Experimental results demonstrate a speedup of **290 times** compared to the state-of-the-art method, enabling real-time reconstruction of 8K grayscale images at 30 FPS.
+Experimental results demonstrate a speedup of <font color=darkred>290 times</font> compared to the state-of-the-art method, enabling real-time reconstruction of 8K grayscale images at 30 FPS.
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 <!-- /
@@ -105,7 +105,7 @@ Experimental results demonstrate a speedup of **290 times** compared to the stat
 
 We employ a sparse sensing matrix composed mainly of zero-vectors, resulting in an invertible full-rank matrix after removing these vectors, enabling the replacement of the iteration-based reconstruction procedure with a single matrix multiplication. 
 
-The result shows that our work accelerates the state-of-the-art method by **65 ×** and achieves 81.92Gpixels/s reconstruction.
+The result shows that our work accelerates the state-of-the-art method by <font color=darkred>65 ×</font> and achieves 81.92Gpixels/s reconstruction.
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
 <!-- /
@@ -126,7 +126,7 @@ The result shows that our work accelerates the state-of-the-art method by **65 �
 
 We recognize the correlation between edge detection and Compressive Sensing sampling, proposing an adaptive method that directly processes sampled data, thereby cutting time and hardware costs. 
 
-Experimental comparisons against traditional and learning-based techniques **consistently reveal superior results**.
+Experimental comparisons against traditional and learning-based techniques <font color=darkred>consistently reveal superior results</font>.
 
 
 <!-- [**Project**](https://xu-jiayao.github.io/projects/CVM/) -->
@@ -148,7 +148,7 @@ Experimental comparisons against traditional and learning-based techniques **con
 
 We implement Zigzag ordering-based parallelism in the reconstruction process to ensure efficient calculations between blocks during parallel reconstruction. 
 
-Experimental results show that the proposed algorithm accelerates the baseline algorithm by **3.26 to 7.13 times**.
+Experimental results show that the proposed algorithm accelerates the baseline algorithm by <font color=darkred>3.26 to 7.13 times</font>.
 
 
 [**Paper**](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
