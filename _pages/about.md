@@ -81,8 +81,8 @@ Due to hardware limitations in sampling, we begin our work with a deterministic 
 We utilize the sparsity of the chosen sensing matrix to streamline calculations in each iteration of reconstruction.
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
-/
-[**Project**](https://xu-jiayao.github.io/projects/MMM/) 
+<!-- /
+[**Project**](https://xu-jiayao.github.io/projects/MMM/)  -->
 
 </div>
 </div>
@@ -103,8 +103,8 @@ We utilize the sparsity of the chosen sensing matrix to streamline calculations 
 We employ a sparse sensing matrix composed mainly of zero-vectors, resulting in an invertible full-rank matrix after removing these vectors, enabling the replacement of the iteration-based reconstruction procedure with a single matrix multiplication.
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
-/
-[**Project**](https://xu-jiayao.github.io/projects/ISCAS/) 
+<!-- /
+[**Project**](https://xu-jiayao.github.io/projects/ISCAS/)  -->
 
 </div>
 </div>
@@ -122,7 +122,7 @@ We employ a sparse sensing matrix composed mainly of zero-vectors, resulting in 
 We recognize the correlation between edge detection and Compressive Sensing sampling, proposing an adaptive method that directly processes sampled data, thereby cutting time and hardware costs.
 
 
-[**Project**](https://xu-jiayao.github.io/projects/CVM/) 
+<!-- [**Project**](https://xu-jiayao.github.io/projects/CVM/) -->
 
 </div>
 </div>
@@ -143,8 +143,8 @@ We implement Zigzag ordering-based parallelism in the reconstruction process to 
 
 
 [**Paper**](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
-/
-[**Project**](https://xu-jiayao.github.io/projects/ICVIP/) 
+<!-- /
+[**Project**](https://xu-jiayao.github.io/projects/ICVIP/) -->
 
 </div>
 </div>
