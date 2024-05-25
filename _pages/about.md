@@ -37,7 +37,7 @@ I am currently actively seeking post-doctoral or researcher opportunities and as
 - *2023.06*: 🎉 Become a reviewer for **ECAI 2023**!
 - *2023.02*: 🎉 One paper is accepted by **DCC poster** 2023!
 - *2022.09*, 🎉 Initiate recurring seminars with **Fudan University** and **Zhejiang University**.
-- *2022.08*, 🎉 Keynote speech on Compressive Sensing at Osaka University.
+- *2022.08*, 🎉 Keynote speech on Compressive Sensing at **Osaka University**.
 - *2022.06*, 🎉 One paper is accepted by **MMM oral** 2022!
 - *2022.05*, 🎉 One paper is accepted by **ISCAS oral** 2022!
 
