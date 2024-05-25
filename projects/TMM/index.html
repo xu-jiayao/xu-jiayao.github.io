@@ -312,12 +312,63 @@
     <h2 class="title is-3">Experimental Results</h2>
     <div class="columns is-centered has-text-centered">
       <div class="column is-full">
-        <image src="./static/image/tableimage.png" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
+        <image src="./static/image/SSIM compare.png" class="img-responsive" alt="SSIMCompare"><br>
         <div class="content has-text-justified">
+          <center><b>Table 1. </b>The performance comparison with existing CS codecs. 
+          </center>
+          <br>
           <p>
-            Quantitative comparison on VFHQ Blind setting.
           </p>
         </div>
+
+          
+        <image src="./static/image/time compare.png" class="img-responsive" alt="TimeCompare"><br>
+        <div class="content has-text-justified">
+          <center><b>Table 2. </b>The comparison of time overhead with existing CS codec. The Sampling Rate is 0.5. Time units in seconds.
+          </center>
+          <br>
+          <p>
+          </p>
+        </div>
+
+          
+<!--         <font size=5><b>1. The timeline comparison among our proposal and existing frameworks. </b></font>
+        <br><br>
+        <image src="./static/image/time pipline.png" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
+        <div class="content has-text-justified">
+          <center><b>Figure 5. </b>The timeline comparison in the decoder between the CSMC framework and our proposed codec.</center>
+          <br>
+          The <font size=4> <b>main contributions of the One-row-two-tables strategy</b></font> are as follows.
+          <ul>
+              <li> Regarding the data distribution feature, the quantized data in a single row block is split into two Huffman coding units: 
+                <br>
+                  the first element in each block and the other elements. </li>
+               <li>This strategy requires lower time costs to further improve the compression ratio.</li>
+          </ul>
+          <br>
+          <p>
+          </p>
+        </div>
+       <image src="./static/image/time pipline - decoder.png" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
+        <div class="content has-text-justified">
+          <center><b>Figure 6. </b>The timeline comparison in the decoder among the preliminary work MMFR, the CSMC framework, and our proposed codec.</center>
+          <br>
+          The <font size=4> <b>main contributions of the One-row-two-tables strategy</b></font> are as follows.
+          <ul>
+              <li> Regarding the data distribution feature, the quantized data in a single row block is split into two Huffman coding units: 
+                <br>
+                  the first element in each block and the other elements. </li>
+               <li>This strategy requires lower time costs to further improve the compression ratio.</li>
+          </ul>
+          <br>
+          <p>
+          </p>
+        </div> -->
+
+
+
+
+          
       </div>
     </div>
   </div>
@@ -330,7 +381,6 @@
     <div class="columns is-centered">
       <div class="column is-full-width">
         <h2 class="title is-3">Acknowledgement</h2>
-
         <div class="content has-text-justified">
           <p>
            This work was supported by JSPS KAKENHI Grant Number JP22K12101. 
