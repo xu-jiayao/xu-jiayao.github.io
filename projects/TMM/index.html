@@ -202,11 +202,8 @@
             <br><br>
             Consequently, compared to the state-of-the-art, this work decreases 22.61 % bpp with 17.72 % increased quality. 
             Meanwhile, time speeds up to 649.13× on the encoder, 11.03× on the decoder, and 288.46× in total.
-
           </p>
-
           <p>
-
           </p>
         </div>
       </div>
@@ -225,6 +222,8 @@
         <div class="content has-text-justified">
           <p>
             <center><b>Figure 1.</b>Different codec architectures comparing with our proposal. The $^*$ represents merit, and the $^+$ represents demerit.</center>
+            <br>
+            <font size=3> The <b>issues in the existing works</b> are as follows.</font>
             <ul>
               <li>The PIC (1) requires a higher frequency than the original signal during the Analog-to-Digital conversion, resulting in increased hardware costs.</li>
               <li>The CSICS (2) reduces hardware requirements during sampling but suffers from low compression ratios and time-consuming reconstruction.</li>
@@ -247,7 +246,8 @@
         <image src="./static/images/ISCAS_methods.png" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
         <div class="content has-text-justified">
           <center><b>Figure 2.</b>The proposed Compressive Sensing based Image Codec with Partial Pre-calculation (CSCP) framework.</center>
-          The <b>main contributions</b> are as follows.
+          <br>
+          <font size=3> The <b>main contributions</b> are as follows.</font>
             <ul>
               <li>Integrating quantization and Huffman Coding in the frequency domain to enhance compression ratio after partial pre-calculation.</li>
               <li>By leveraging sparsity in the frequency domain, image quality degradation due to quantization is minimized.</li>
@@ -257,7 +257,6 @@
               <li>Moving partial pre-calculation from the reconstruction process to the encoder significantly reduces decoding time. </li>
               <li>In summary, our proposed codec not only significantly reduces decoding time but also improves compression ratios.</li>
             </ul>
-          
           <p>
           </p>
         </div>
