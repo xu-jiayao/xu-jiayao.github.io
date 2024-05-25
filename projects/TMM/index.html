@@ -218,7 +218,7 @@
     <h2 class="title is-3">Motivation</h2>
     <div class="columns is-centered has-text-centered">
       <div class="column is-full">
-        <image src="./static/images/figure1_with proposal_(v1).png" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
+        <image src="./static/images/figure1_with proposal_(v1).png" class="img-responsive" alt="TMMcomparison" width="80%"><br>
         <div class="content has-text-justified">
           <p>
             <center><b>Figure 1.</b>Different codec architectures comparing with our proposal. The $^*$ represents merit, and the $^+$ represents demerit.</center>
@@ -243,12 +243,13 @@
     <h2 class="title is-3">Methods</h2>
     <div class="columns is-centered has-text-centered">
       <div class="column is-full">
-        
-        <image src="./static/images/TMM_methods.PNG" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
+        <font size=4><b>1. The overall framework </b></font>
+        <br><br>
+        <image src="./static/images/TMM_methods.PNG" class="img-responsive" alt="TMMproposal"><br>
         <div class="content has-text-justified">
           <center><b>Figure 2.</b>The proposed Compressive Sensing based Image Codec with Partial Pre-calculation (CSCP) framework.</center>
           <br>
-          The <font size=4> <b>main contributions</b></font> are as follows.
+          The <font size=4> <b>main contributions of our novel framework</b></font> are as follows.
             <ul>
               <li>Integrating quantization and Huffman Coding in the frequency domain to enhance compression ratio after partial pre-calculation.</li>
               <li>By leveraging sparsity in the frequency domain, image quality degradation due to quantization is minimized.</li>
@@ -262,15 +263,19 @@
           </p>
         </div>
 
-        <image src="./static/images/ISCAS_methods.png" class="img-responsive" alt="DDNeRF_Architecture_v21"><br>
+        <font size=4><b>2. The proposed Matrix Multiplication based Fast Reconstruction (MMFR). </b></font>
+        <br><br>
+        <image src="./static/images/ISCAS_methods.png" class="img-responsive" alt="ISCASproposal"><br>
         <div class="content has-text-justified">
           <center><b>Figure 3.</b>Comparison between the original reconstruction procedure (1) <br> and our proposed Matrix Multiplication based Fast Reconstruction (MMFR)(2).</center>
           <br>
-          The <font size=4> <b>main contributions</b></font> are as follows.
-          Observing from the sensing matrix, the first $M$ vectors are non-zero vectors, 
-          so only the $M$ first elements of the data in the frequency domain are kept for reconstructing signal $\hat{X}$. 
-          With unnecessary vectors removed, the sensing matrix is reduced to $\hat{A}$. 
-          This allows the reconstruction procedure to be implemented by several add and shift operators, thus significantly reducing the complexity of the calculation.
+          The <font size=4> <b>main contributions of MMFR</b></font> are as follows.
+          <ul>
+              <li>Observing from the sensing matrix, the first <b>M</b> vectors are non-zero vectors.</li>
+              <li>In other words, only the <b>M</b> first elements of the data in the frequency domain are kept for reconstructing signal $\hat{X}$.</li>
+              <li>With unnecessary vectors removed, the sensing matrix is reduced to <b>\hat{A}</b>.</li>
+              <li>This allows the reconstruction procedure to be implemented by several add and shift operators, thus significantly reducing the complexity of the calculation.</li>
+            </ul>
           <p>
           </p>
         </div>
