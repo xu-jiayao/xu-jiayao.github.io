@@ -81,7 +81,7 @@ Break the current codec framework and analyze the data characteristics within ea
 Due to hardware limitations in sampling, we begin our work with a deterministic matrix. 
 We utilize the sparsity of the chosen sensing matrix to streamline calculations in each iteration of reconstruction. 
 
-Experimental results demonstrate a speedup of <font color=darkred>290 times</font> compared to the state-of-the-art method, enabling real-time reconstruction of 8K grayscale images at 30 FPS.
+Experimental results demonstrate a <font color=darkred>speedup of 290 times</font> compared to the state-of-the-art method, enabling <font color=darkred>real-time reconstruction of 8K grayscale images at 30 FPS.</font>
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 <!-- /
@@ -105,7 +105,7 @@ Experimental results demonstrate a speedup of <font color=darkred>290 times</fon
 
 We employ a sparse sensing matrix composed mainly of zero-vectors, resulting in an invertible full-rank matrix after removing these vectors, enabling the replacement of the iteration-based reconstruction procedure with a single matrix multiplication. 
 
-The result shows that our work accelerates the state-of-the-art method by <font color=darkred>65 ×</font> and achieves 81.92Gpixels/s reconstruction.
+The result shows that our work accelerates the state-of-the-art method by <font color=darkred>65 × and achieves 81.92Gpixels/s reconstruction.</font> 
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
 <!-- /
