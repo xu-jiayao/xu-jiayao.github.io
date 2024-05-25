@@ -274,13 +274,30 @@
           <ul>
               <li>Observing from the sensing matrix, the first <b>M</b> vectors are non-zero vectors.</li>
               <li>In other words, only the <b>M</b> first elements of the data in the frequency domain are kept for reconstructing signal 
-                <image src="./static/images/hatX.png" alt="hatX" width="5%">.</li>
-              <li>With unnecessary vectors removed, the sensing matrix is reduced to  <image src="./static/images/hatA.png" alt="hatA" width="5%">.</li>
+                <image src="./static/images/hatX.png" alt="hatX" width="1%">.</li>
+              <li>With unnecessary vectors removed, the sensing matrix is reduced to  <image src="./static/images/hatA.png" alt="hatA" width="1%">.</li>
               <li>This allows the reconstruction procedure to be implemented by several add and shift operators, thus significantly reducing the complexity of the calculation.</li>
             </ul>
           <p>
           </p>
         </div>
+
+
+        <font size=5><b>3. The proposed One-row-two-tables strategy. </b></font>
+        <br><br>
+        <image src="./static/images/one-row-two-tables.png" class="img-responsive" alt="one-row-two-tables"><br>
+        <div class="content has-text-justified">
+          <center><b>Figure 4. </b>The proposed One-Row-Two-Tables strategy.</center>
+          <br>
+          Regarding the data distribution feature, the quantized data in a single row block is split into two Huffman coding units: 
+          the first element in each block and the other elements. 
+          <br>
+          This strategy requires lower time cost to further improve the compression ratio.
+          <p>
+          </p>
+        </div>
+
+          
       </div>
     </div>
   </div>
