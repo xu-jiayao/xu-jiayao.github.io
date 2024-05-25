@@ -79,7 +79,7 @@ Break the current codec framework and analyze the data characteristics within ea
 **Key Idea**: 
 
 Due to hardware limitations in sampling, we begin our work with a deterministic matrix. 
-We utilize the sparsity of the chosen sensing matrix to streamline calculations in each iteration of reconstruction.
+We utilize the sparsity of the chosen sensing matrix to streamline calculations in each iteration of reconstruction. Experimental results demonstrate a speedup of 290 times compared to the state-of-the-art method, requiring only 0.026 seconds to reconstruct an 8K grayscale image, achieving real-time reconstruction at 30 FPS.
 
 [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-98358-1_41)
 <!-- /
@@ -101,7 +101,7 @@ We utilize the sparsity of the chosen sensing matrix to streamline calculations 
 
 **Key Idea**: 
 
-We employ a sparse sensing matrix composed mainly of zero-vectors, resulting in an invertible full-rank matrix after removing these vectors, enabling the replacement of the iteration-based reconstruction procedure with a single matrix multiplication.
+We employ a sparse sensing matrix composed mainly of zero-vectors, resulting in an invertible full-rank matrix after removing these vectors, enabling the replacement of the iteration-based reconstruction procedure with a single matrix multiplication. The result shows that our work accelerates the state-of-the-art method by 65 × and achieves 81.92Gpixels/s reconstruction.
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/9937930)
 <!-- /
@@ -120,7 +120,7 @@ We employ a sparse sensing matrix composed mainly of zero-vectors, resulting in 
 
 **Key Idea**: 
 
-We recognize the correlation between edge detection and Compressive Sensing sampling, proposing an adaptive method that directly processes sampled data, thereby cutting time and hardware costs.
+We recognize the correlation between edge detection and Compressive Sensing sampling, proposing an adaptive method that directly processes sampled data, thereby cutting time and hardware costs. Experimental comparisons against traditional and learning-based techniques consistently reveal superior results.
 
 
 <!-- [**Project**](https://xu-jiayao.github.io/projects/CVM/) -->
@@ -140,7 +140,7 @@ We recognize the correlation between edge detection and Compressive Sensing samp
 
 **Key Idea**: 
 
-We implement Zigzag ordering-based parallelism in the reconstruction process to ensure efficient calculations between blocks during parallel reconstruction.
+We implement Zigzag ordering-based parallelism in the reconstruction process to ensure efficient calculations between blocks during parallel reconstruction. Experimental results show that the proposed algorithm accelerates the baseline algorithm by 3.26 to 7.13 times.
 
 
 [**Paper**](https://dl.acm.org/doi/abs/10.1145/3447450.3447489)
