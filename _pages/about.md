@@ -226,7 +226,7 @@ Provide on-campus student services such as checking lecture schedules, accessing
 # 💬 Invited Talks
 - *2023.10*, Compressive Sensing Based Image Codec With Partial Pre-Calculation talk in Institut National des Sciences Appliquées de Rennes, INSA de Rennes.
 - *2022.09 - 2024.03*, Regular seminar with Fudan University and Zhejiang University for Image Compression using Compressive Sensing.
-- *2022.08*, Compressive Sensing Seminar with Osaka Univerisity.
+- *2022.08*, Compressive Sensing Seminar with Osaka University.
 - *2022.06*, Real-time hardware design for Compressive Sensing reconstruction talk, MMM 2022.
 - *2022.05*, a hardware design reaches 81.92 GPixel/s for Compressive Sensing reconstruction talk, ISCAS 2022.
 - *2020.12*, Parallel reconstruction design for Compressive Sensing reconstruction talk, ICVIP 2020.
