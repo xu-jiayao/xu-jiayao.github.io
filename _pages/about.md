@@ -26,7 +26,7 @@ Throughout my doctoral and master's studies, I have authored **10 papers**, most
 
 I possess a strong ability for **self-directed learning** and have **independently acquired knowledge** in areas relevant to my research topic during my graduate studies, as well as in iOS application development during my undergraduate studies.
 
-I will be joining Pengcheng Laboratory on September 9, 2024, to work on compression technology related to remote sensing.
+I will work on compression technology related to remote sensing from September 2024.
 
 # 🔥 News
 - *2024.03*: 🎉 One paper is accepted by **IJCNN oral** 2024!
